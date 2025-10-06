@@ -1,0 +1,873 @@
+[{
+  "_id": {
+    "$oid": "68df6a7f810c691da31f0233"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "title": "Physics Mid-Term Exam - Updated",
+  "subject": "Physics",
+  "instructions": "Read all questions carefully. Choose the best answer for each question. No negative marking.",
+  "totalMarks": 20,
+  "timeLimit": 70,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": "Newton",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f0234"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": [
+        "9.8 m/s²",
+        "10 m/s²",
+        "8.9 m/s²",
+        "11 m/s²"
+      ],
+      "correctAnswer": "9.8 m/s²",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f0235"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which law states that F = ma?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Gravitation"
+      ],
+      "correctAnswer": "Newton's Second Law",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f0236"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "Energy can be created or destroyed.",
+      "options": [],
+      "correctAnswer": "false",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f0237"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "Define velocity.",
+      "options": [],
+      "correctAnswer": "Rate of change of displacement with respect to time",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f0238"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the speed of light in vacuum?",
+      "options": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁷ m/s",
+        "3 × 10⁹ m/s"
+      ],
+      "correctAnswer": "3 × 10⁸ m/s",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f0239"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of these is a scalar quantity?",
+      "options": [
+        "Force",
+        "Velocity",
+        "Speed",
+        "Acceleration"
+      ],
+      "correctAnswer": "Speed",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f023a"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "Momentum is conserved in all collisions.",
+      "options": [],
+      "correctAnswer": "true",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f023b"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the unit of power?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "Watt",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f023c"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "State Newton's Third Law of Motion.",
+      "options": [],
+      "correctAnswer": "For every action, there is an equal and opposite reaction",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6a7f810c691da31f023d"
+      }
+    }
+  ],
+  "questionsCount": 10,
+  "isActive": true,
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-10-03T06:17:35.361Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T07:15:22.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68df6ac3810c691da31f0240"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "title": "Chemistry Quiz - Periodic Table",
+  "subject": "Chemistry",
+  "instructions": "Answer all questions. Each question carries equal marks.",
+  "totalMarks": 40,
+  "timeLimit": 45,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the atomic number of Carbon?",
+      "options": [
+        "6",
+        "12",
+        "14",
+        "8"
+      ],
+      "correctAnswer": "6",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0241"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which element has the symbol 'Fe'?",
+      "options": [
+        "Fluorine",
+        "Iron",
+        "Fermium",
+        "Francium"
+      ],
+      "correctAnswer": "Iron",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0242"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "Water is a compound.",
+      "options": [],
+      "correctAnswer": "true",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0243"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the pH of pure water?",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctAnswer": "7",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0244"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": "Nitrogen",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0245"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "What is the chemical formula of water?",
+      "options": [],
+      "correctAnswer": "H2O",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0246"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is a noble gas?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correctAnswer": "Helium",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0247"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "Acids have a pH greater than 7.",
+      "options": [],
+      "correctAnswer": "false",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0248"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the symbol for Gold?",
+      "options": [
+        "Go",
+        "Au",
+        "Gd",
+        "Ag"
+      ],
+      "correctAnswer": "Au",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f0249"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "Define an atom.",
+      "options": [],
+      "correctAnswer": "The smallest unit of matter that retains the properties of an element",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6ac3810c691da31f024a"
+      }
+    }
+  ],
+  "questionsCount": 10,
+  "isActive": true,
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-10-03T06:18:43.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T06:18:43.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68df6ad2810c691da31f024d"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "title": "Mathematics Test - Algebra & Geometry",
+  "subject": "Mathematics",
+  "instructions": "Show all your work. Partial credit may be awarded.",
+  "totalMarks": 60,
+  "timeLimit": 90,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "Solve: 2x + 5 = 15",
+      "options": [
+        "x = 5",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "correctAnswer": "x = 5",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f024e"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the value of π (pi)?",
+      "options": [
+        "3.14",
+        "2.71",
+        "1.41",
+        "1.73"
+      ],
+      "correctAnswer": "3.14",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f024f"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "A triangle has four sides.",
+      "options": [],
+      "correctAnswer": "false",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0250"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the area of a circle with radius 5?",
+      "options": [
+        "25π",
+        "10π",
+        "5π",
+        "15π"
+      ],
+      "correctAnswer": "25π",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0251"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Solve: x² = 16",
+      "options": [
+        "x = ±4",
+        "x = 4",
+        "x = -4",
+        "x = 8"
+      ],
+      "correctAnswer": "x = ±4",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0252"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "What is the Pythagorean theorem?",
+      "options": [],
+      "correctAnswer": "a² + b² = c²",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 4,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0253"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 15% of 200?",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "35"
+      ],
+      "correctAnswer": "30",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0254"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "The sum of angles in a triangle is 180°.",
+      "options": [],
+      "correctAnswer": "true",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0255"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the square root of 64?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "7"
+      ],
+      "correctAnswer": "8",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0256"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "Define a prime number.",
+      "options": [],
+      "correctAnswer": "A number greater than 1 that has no positive divisors other than 1 and itself",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6ad2810c691da31f0257"
+      }
+    }
+  ],
+  "questionsCount": 10,
+  "isActive": false,
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-10-03T06:18:58.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T06:22:40.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68df6bd3810c691da31f02b0"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "title": "Mathematics Test - Algebra & Geometry",
+  "subject": "Mathematics",
+  "instructions": "Show all your work. Partial credit may be awarded.",
+  "totalMarks": 60,
+  "timeLimit": 90,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "Solve: 2x + 5 = 15",
+      "options": [
+        "x = 5",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "correctAnswer": "x = 5",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b1"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the value of π (pi)?",
+      "options": [
+        "3.14",
+        "2.71",
+        "1.41",
+        "1.73"
+      ],
+      "correctAnswer": "3.14",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b2"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "A triangle has four sides.",
+      "options": [],
+      "correctAnswer": "false",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b3"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the area of a circle with radius 5?",
+      "options": [
+        "25π",
+        "10π",
+        "5π",
+        "15π"
+      ],
+      "correctAnswer": "25π",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b4"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Solve: x² = 16",
+      "options": [
+        "x = ±4",
+        "x = 4",
+        "x = -4",
+        "x = 8"
+      ],
+      "correctAnswer": "x = ±4",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b5"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "What is the Pythagorean theorem?",
+      "options": [],
+      "correctAnswer": "a² + b² = c²",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 4,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b6"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 15% of 200?",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "35"
+      ],
+      "correctAnswer": "30",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b7"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "The sum of angles in a triangle is 180°.",
+      "options": [],
+      "correctAnswer": "true",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b8"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the square root of 64?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "7"
+      ],
+      "correctAnswer": "8",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02b9"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "Define a prime number.",
+      "options": [],
+      "correctAnswer": "A number greater than 1 that has no positive divisors other than 1 and itself",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 3,
+      "_id": {
+        "$oid": "68df6bd3810c691da31f02ba"
+      }
+    }
+  ],
+  "questionsCount": 10,
+  "isActive": true,
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-10-03T06:23:15.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T06:23:15.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68df77cfee9c7f5f7d4bf167"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "title": "Chemistry - Periodic Table Quiz",
+  "subject": "Chemistry",
+  "instructions": "Answer all questions. Write chemical formulas carefully. Use proper nomenclature.",
+  "totalMarks": 40,
+  "timeLimit": 45,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the atomic number of Carbon?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": "1",
+      "correctAnswers": [
+        "1"
+      ],
+      "allowMultipleAnswers": false,
+      "marks": 1,
+      "explanation": "Correct Answer: B (6)\n",
+      "_id": {
+        "$oid": "68df77cfee9c7f5f7d4bf168"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which element has the symbol 'Fe'?\n",
+      "options": [
+        "Fluorine",
+        "Iron",
+        "Francium",
+        "Fermium"
+      ],
+      "correctAnswer": "1",
+      "correctAnswers": [
+        "1"
+      ],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "explanation": "",
+      "_id": {
+        "$oid": "68df77cfee9c7f5f7d4bf169"
+      }
+    },
+    {
+      "type": "true-false",
+      "question": "Water is a compound.",
+      "options": [],
+      "correctAnswer": "true",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "explanation": "Water (H₂O) is a compound made of hydrogen and oxygen.\n",
+      "_id": {
+        "$oid": "68df77cfee9c7f5f7d4bf16a"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the pH of pure water at 25°C?",
+      "options": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "correctAnswer": "1",
+      "correctAnswers": [
+        "1"
+      ],
+      "allowMultipleAnswers": false,
+      "marks": 1,
+      "explanation": "Pure water has a neutral pH of 7 at 25°C.",
+      "_id": {
+        "$oid": "68df77cfee9c7f5f7d4bf16b"
+      }
+    },
+    {
+      "type": "short-answer",
+      "question": "What is the chemical formula of sulfuric acid?\n",
+      "options": [],
+      "correctAnswer": "H₂SO₄",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "explanation": "",
+      "_id": {
+        "$oid": "68df77cfee9c7f5f7d4bf16c"
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of these are noble gases?",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Argon",
+        "Nitrogen"
+      ],
+      "correctAnswer": "2",
+      "correctAnswers": [
+        "2"
+      ],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "explanation": "",
+      "_id": {
+        "$oid": "68df77cfee9c7f5f7d4bf16d"
+      }
+    }
+  ],
+  "questionsCount": 6,
+  "isActive": true,
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-10-03T07:14:23.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T07:14:23.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68df8e29e76e77e92b0e3b05"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "title": "Chemistry Mid Trem",
+  "subject": "Chemistry",
+  "instructions": "jj",
+  "totalMarks": 20,
+  "timeLimit": 2,
+  "questions": [
+    {
+      "type": "true-false",
+      "question": "2",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswer": "true",
+      "correctAnswers": [],
+      "allowMultipleAnswers": false,
+      "marks": 2,
+      "_id": {
+        "$oid": "68df8e29e76e77e92b0e3b06"
+      }
+    }
+  ],
+  "questionsCount": 1,
+  "isActive": false,
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-10-03T08:49:45.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T11:26:51.186Z"
+  },
+  "__v": 0
+}]

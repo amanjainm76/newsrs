@@ -1,0 +1,668 @@
+[{
+  "_id": {
+    "$oid": "6745c15676777fe77610a7b1"
+  },
+  "title": "demo1",
+  "content": [
+    "1 content here111"
+  ],
+  "isPartialMarking": false,
+  "questions": [
+    {
+      "questionType": "Multiple Correct",
+      "marks": {
+        "notAttemptedMarks": 5,
+        "rightMarks": 6,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 1,
+        "singleRightMarks": 1,
+        "singleWrongMarks": 1
+      },
+      "_id": {
+        "$oid": "6745f1247a0a6eda8158c51a"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 06:08 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "2024-11-26T16:02:44.516Z",
+  "active": false,
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6745c27d76777fe77610a7c4"
+  },
+  "title": "abc1",
+  "content": [
+    "abc1"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Multiple Correct",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 1,
+        "singleRightMarks": 1,
+        "singleWrongMarks": 1
+      },
+      "_id": {
+        "$oid": "6745c27d76777fe77610a7c5"
+      }
+    },
+    {
+      "questionType": "Single Correct",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 0,
+        "wrongMarks": 4
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c27d76777fe77610a7c6"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 06:13 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 06:13 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745c7fe76777fe77610a80c"
+  },
+  "title": "Demo Marking Scheme 1",
+  "content": [
+    "Demo Marking Scheme 1"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a80d"
+      }
+    },
+    {
+      "questionType": "Multiple Correct",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 2,
+        "singleRightMarks": 3,
+        "singleWrongMarks": 4
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a80e"
+      }
+    },
+    {
+      "questionType": "Comprehension SCQ",
+      "marks": {
+        "notAttemptedMarks": 4,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a80f"
+      }
+    },
+    {
+      "questionType": "Comprehension MCQ",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 3,
+        "wrongMarks": 4
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 2,
+        "singleRightMarks": 2,
+        "singleWrongMarks": 2
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a810"
+      }
+    },
+    {
+      "questionType": "Four Digit Integer",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 2,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a811"
+      }
+    },
+    {
+      "questionType": "Matrix 4*5",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 2,
+        "singleRightMarks": 2,
+        "singleWrongMarks": 2
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a812"
+      }
+    },
+    {
+      "questionType": "Matrix 4*6",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 2,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 2,
+        "singleRightMarks": 2,
+        "singleWrongMarks": 2
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a813"
+      }
+    },
+    {
+      "questionType": "Matrix 3*4",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 2,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 2,
+        "singleRightMarks": 2,
+        "singleWrongMarks": 2
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a814"
+      }
+    },
+    {
+      "questionType": "Assertion Reasoning",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 2,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a815"
+      }
+    },
+    {
+      "questionType": "True False",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 2,
+        "wrongMarks": 0
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a816"
+      }
+    },
+    {
+      "questionType": "Subjective",
+      "marks": {
+        "notAttemptedMarks": 9,
+        "rightMarks": 9,
+        "wrongMarks": 9
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c7fe76777fe77610a817"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 06:37 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 06:37 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745c8e576777fe77610a855"
+  },
+  "title": "aa",
+  "content": [
+    "aa"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Single Digit Integer",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745c8e576777fe77610a856"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 06:41 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 06:41 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745e38e7a0a6eda8158c48d"
+  },
+  "title": "1",
+  "content": [
+    "1"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Comprehension SCQ",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745e38e7a0a6eda8158c48e"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 08:34 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 08:34 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745e3977a0a6eda8158c490"
+  },
+  "title": "ww",
+  "content": [
+    "www"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Comprehension SCQ",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745e3977a0a6eda8158c491"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 08:34 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 08:34 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745e39f7a0a6eda8158c493"
+  },
+  "title": "ww",
+  "content": [
+    "www"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Comprehension SCQ",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745e39f7a0a6eda8158c494"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 08:35 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 08:35 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745e3c37a0a6eda8158c4bc"
+  },
+  "title": "qq",
+  "content": [
+    "qqq"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Matrix 3*4",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 1,
+        "singleRightMarks": 1,
+        "singleWrongMarks": 1
+      },
+      "_id": {
+        "$oid": "6745e3c37a0a6eda8158c4bd"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 08:35 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 08:35 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745e4677a0a6eda8158c4bf"
+  },
+  "title": "aa",
+  "content": [
+    "aa"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745e4677a0a6eda8158c4c0"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 08:38 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 08:38 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745e9cf7a0a6eda8158c4ca"
+  },
+  "title": "testing 1",
+  "content": [
+    "testing 1"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 2,
+        "wrongMarks": 3
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6745e9cf7a0a6eda8158c4cb"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 09:01 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 09:01 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745f1157a0a6eda8158c515"
+  },
+  "title": "aa",
+  "content": [
+    "aa"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Matrix 4*5",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 1,
+        "singleRightMarks": 1,
+        "singleWrongMarks": 1
+      },
+      "_id": {
+        "$oid": "6745f1157a0a6eda8158c516"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 26, 2024, 09:32 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 09:32 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6746921822065054b2081eb0"
+  },
+  "title": "1",
+  "content": [
+    "1"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Four Digit Integer",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "6746921822065054b2081eb1"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 27, 2024, 08:59 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 27, 2024, 08:59 AM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5cfa2fdec083bcac02eb0"
+  },
+  "title": "sdsds",
+  "content": [
+    "121"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Comprehension SCQ",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 1,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "67a5cfa2fdec083bcac02eb1"
+      }
+    },
+    {
+      "questionType": "True False",
+      "marks": {
+        "notAttemptedMarks": 1,
+        "rightMarks": 21,
+        "wrongMarks": 1
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 0,
+        "singleRightMarks": 0,
+        "singleWrongMarks": 0
+      },
+      "_id": {
+        "$oid": "67a5cfa2fdec083bcac02eb2"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Feb 07, 2025, 02:47 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Feb 07, 2025, 02:47 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f848fdec083bcac03857"
+  },
+  "title": "re",
+  "content": [
+    "ere"
+  ],
+  "isPartialMarking": true,
+  "questions": [
+    {
+      "questionType": "Matrix 3*4",
+      "marks": {
+        "notAttemptedMarks": 2,
+        "rightMarks": 2,
+        "wrongMarks": 2
+      },
+      "partialMarks": {
+        "singleNotAttemptedMarks": 2,
+        "singleRightMarks": 2,
+        "singleWrongMarks": 2
+      },
+      "_id": {
+        "$oid": "67a5f848fdec083bcac03858"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Feb 07, 2025, 05:40 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Feb 07, 2025, 05:40 PM",
+  "active": true,
+  "__v": 0
+}]

@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "673b0023993384031811c506"
+  },
+  "username": "john_doe",
+  "email": "ab8sdcx8cd@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$6kjn84pYbYz/XK95Dv5OmOjt9WEWwKfC.J1TRPMgWVOLZTP9UXRsC",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b0077993384031811c509"
+  },
+  "username": "SRS Educares",
+  "email": "srs@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$3kj/EFT028XkYv8RLHbbXe2PXgoRMd4zhyBcpxuozsNaL2k8.x42O",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b038d3d4268c63a7a0d7e"
+  },
+  "username": "SRS Educares",
+  "email": "abc@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$1SBCktFnH/M7ri.lIXu8GeKQsYuhTNLhZL1idZb4QgApqIb9HRjPK",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b067c1102dec808619e08"
+  },
+  "username": "SRS Educares",
+  "email": "abc1@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$W4ehpVVCleTDDwh5hYjY1ufGjP67ws19.sOMtQEiQ/TO5tVg5Uv7u",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b0a76d361e4348182179c"
+  },
+  "username": "SRS Educares",
+  "email": "abc31@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$BR22QxNT.ZnVoB9ZnHh/Je8qBse0cdeZ30hX6gWTkMXdIKTBoLzp.",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b0ac9946fb1b1b3ebd547"
+  },
+  "username": "SRS Educares",
+  "email": "abc8@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$xcMVE0LoOh97tqpEVSYoW.tDmHiunzEDOIlCzJPwSKYoQBbf4QW4m",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b0c8bf126877df6e0def7"
+  },
+  "username": "SRS Educares",
+  "email": "abc568@gmail.com",
+  "phone": 9389389823,
+  "city": "agra",
+  "password": "$2a$10$0.5r7rjlILeOU3AQxo9jV.ELegWGNi6NaMQUeb6nocxA8SxLS0QIi",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b17c1240e0024ea0d451a"
+  },
+  "username": "Rashi Gupta",
+  "email": "rashigupta@gmail.com",
+  "phone": 8938982319,
+  "city": "agra",
+  "password": "$2a$10$0SP91cvtP0vE69ZSLoDE1OZpw1DiLvsWJBd7/Wx0xfT/l4D85530q",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673b3d44611c55147ca3ac53"
+  },
+  "username": "Rashi Gupta",
+  "email": "rashigup1ta@gmail.com",
+  "phone": "8938982319",
+  "city": "agra",
+  "password": "$2a$10$Mx2.Dx6qP6.XOgT98xmj1uPfsLCxBMVuFVZ7SGM8mr488dNaaPNMi",
+  "isAdmin": false,
+  "__v": 0
+}]

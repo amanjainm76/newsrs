@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "68db7e9c35379612e79c15d1"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "studentRegistrationNumber": "STU110291403",
+  "courseId": {
+    "$oid": "68db7dae35379612e79c15ac"
+  },
+  "status": "active",
+  "progress": {
+    "overallProgress": 0,
+    "completedChapters": [],
+    "completedTopics": []
+  },
+  "enrolledBy": "admin",
+  "enrollmentDate": {
+    "$date": "2025-09-30T06:54:20.775Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-30T06:54:20.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-30T06:54:20.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dba8b135379612e79c31d9"
+  },
+  "studentId": {
+    "$oid": "68dba48435379612e79c31a2"
+  },
+  "studentRegistrationNumber": "STU965161330",
+  "courseId": {
+    "$oid": "68db7dae35379612e79c15ac"
+  },
+  "status": "active",
+  "progress": {
+    "overallProgress": 0,
+    "completedChapters": [],
+    "completedTopics": []
+  },
+  "enrolledBy": "admin",
+  "enrollmentDate": {
+    "$date": "2025-09-30T09:53:53.827Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-30T09:53:53.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-30T09:53:53.842Z"
+  },
+  "__v": 0
+}]

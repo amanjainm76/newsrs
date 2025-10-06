@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67406722b0d953625acb7b72"
+  },
+  "title": "tag",
+  "url": "tag",
+  "content": [
+    "tg"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 22, 2024, 04:42 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 25, 2024, 07:26 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f8d5fdec083bcac0386f"
+  },
+  "title": "xdf",
+  "url": "dffd",
+  "content": [
+    "dfgf"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Feb 07, 2025, 05:43 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Feb 07, 2025, 05:43 PM",
+  "active": false,
+  "__v": 0
+}]

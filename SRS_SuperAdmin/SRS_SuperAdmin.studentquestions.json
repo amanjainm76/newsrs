@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a1"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "What is the SI unit of displacement?",
+  "type": "multiple-choice",
+  "options": [
+    "meter",
+    "kilometer",
+    "centimeter",
+    "millimeter"
+  ],
+  "correctAnswer": "meter",
+  "subjectId": {
+    "$oid": "68de2639f8a28d527aa56ec7"
+  },
+  "chapterId": {
+    "$oid": "68de2681f8a28d527aa56ecb"
+  },
+  "topicId": {
+    "$oid": "68de26f2f8a28d527aa56ecf"
+  },
+  "difficulty": "Easy",
+  "marks": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a2"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "A car travels 100m north and then 50m south. What is the total displacement?",
+  "type": "multiple-choice",
+  "options": [
+    "50m north",
+    "150m",
+    "100m",
+    "50m south"
+  ],
+  "correctAnswer": "50m north",
+  "subjectId": {
+    "$oid": "68de2639f8a28d527aa56ec7"
+  },
+  "chapterId": {
+    "$oid": "68de2681f8a28d527aa56ecb"
+  },
+  "topicId": {
+    "$oid": "68de26f2f8a28d527aa56ecf"
+  },
+  "difficulty": "Medium",
+  "marks": 2,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a3"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "Which particle has a positive charge?",
+  "type": "multiple-choice",
+  "options": [
+    "Proton",
+    "Electron",
+    "Neutron",
+    "Photon"
+  ],
+  "correctAnswer": "Proton",
+  "subjectId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583a"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589b"
+  },
+  "difficulty": "Easy",
+  "marks": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a4"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "What is the mass of an electron approximately?",
+  "type": "multiple-choice",
+  "options": [
+    "1/1840 amu",
+    "1 amu",
+    "1840 amu",
+    "0 amu"
+  ],
+  "correctAnswer": "1/1840 amu",
+  "subjectId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583a"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589b"
+  },
+  "difficulty": "Medium",
+  "marks": 2,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a5"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "Solve for x: 2x + 5 = 15",
+  "type": "multiple-choice",
+  "options": [
+    "x = 5",
+    "x = 10",
+    "x = 7",
+    "x = 3"
+  ],
+  "correctAnswer": "x = 5",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589d"
+  },
+  "difficulty": "Easy",
+  "marks": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a6"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "If 3x - 7 = 8, what is the value of x?",
+  "type": "multiple-choice",
+  "options": [
+    "x = 5",
+    "x = 3",
+    "x = 7",
+    "x = 4"
+  ],
+  "correctAnswer": "x = 5",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589d"
+  },
+  "difficulty": "Easy",
+  "marks": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a7"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "What is the discriminant of x² - 5x + 6 = 0?",
+  "type": "multiple-choice",
+  "options": [
+    "1",
+    "25",
+    "11",
+    "0"
+  ],
+  "correctAnswer": "1",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589e"
+  },
+  "difficulty": "Medium",
+  "marks": 2,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4c79748e606c0c1b58a8"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "question": "Solve: x² - 4 = 0",
+  "type": "multiple-choice",
+  "options": [
+    "x = ±2",
+    "x = 2",
+    "x = -2",
+    "x = ±4"
+  ],
+  "correctAnswer": "x = ±2",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589e"
+  },
+  "difficulty": "Easy",
+  "marks": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:09:29.281Z"
+  }
+}]

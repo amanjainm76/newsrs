@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "67468763e8b4bed067564300"
+  },
+  "title": "Test 1",
+  "url": "https://example.com/test1",
+  "content": [
+    "Content 1",
+    "Content 2"
+  ],
+  "examType": [
+    "Type A",
+    "Type B"
+  ],
+  "testType": [
+    "Online",
+    "Offline"
+  ],
+  "distribution": [
+    "Section 1",
+    "Section 2"
+  ],
+  "maxQuestions": 50,
+  "duration": 120,
+  "guideline": [
+    "Follow instructions",
+    "Time management"
+  ],
+  "markingScheme": [
+    "+4 for correct",
+    "-1 for wrong"
+  ],
+  "startDate": {
+    "$date": "2024-11-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "tag": [
+    "Review Pending"
+  ],
+  "sectionName": "Section 1",
+  "sectionDescription": "Description for Section 1",
+  "sectionDisplayOrder": 1,
+  "sectionGuideline": [
+    "Time management",
+    "Read carefully"
+  ],
+  "sectionMarkingScheme": [
+    "+4 for correct",
+    "-2 for wrong"
+  ],
+  "createdBy": "admin",
+  "createdOn": "2024-11-01T00:00:00Z",
+  "updatedBy": "admin",
+  "updatedOn": "2024-11-01T00:00:00Z",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674691f022065054b2081eac"
+  },
+  "title": "Test 1",
+  "url": "https://example.com/test1",
+  "content": [
+    "Content 1",
+    "Content 2"
+  ],
+  "examType": [
+    "Type A",
+    "Type B"
+  ],
+  "testType": [
+    "Online",
+    "Offline"
+  ],
+  "distribution": [
+    "Section 1",
+    "Section 2"
+  ],
+  "maxQuestions": 50,
+  "duration": 120,
+  "guideline": [
+    "Follow instructions",
+    "Time management"
+  ],
+  "markingScheme": [
+    "+4 for correct",
+    "-1 for wrong"
+  ],
+  "startDate": {
+    "$date": "2024-11-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "tag": [
+    "Review Pending"
+  ],
+  "sections": [
+    {
+      "sectionName": "Section 1",
+      "sectionDescription": "Description for Section 1",
+      "sectionDisplayOrder": 1,
+      "sectionGuideline": [
+        "Time management",
+        "Read carefully"
+      ],
+      "sectionMarkingScheme": [
+        "+4 for correct",
+        "-2 for wrong"
+      ],
+      "_id": {
+        "$oid": "674691f022065054b2081ead"
+      }
+    },
+    {
+      "sectionName": "Section 2",
+      "sectionDescription": "Description for Section 2",
+      "sectionDisplayOrder": 2,
+      "sectionGuideline": [
+        "Practice under time limit",
+        "Focus on accuracy"
+      ],
+      "sectionMarkingScheme": [
+        "+5 for correct",
+        "-3 for wrong"
+      ],
+      "_id": {
+        "$oid": "674691f022065054b2081eae"
+      }
+    }
+  ],
+  "createdBy": "admin",
+  "createdOn": "2024-11-01T00:00:00Z",
+  "updatedBy": "admin",
+  "updatedOn": "2024-11-01T00:00:00Z",
+  "active": true,
+  "__v": 0
+}]

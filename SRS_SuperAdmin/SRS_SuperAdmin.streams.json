@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "673dbd58de0eac3d39d26eaf"
+  },
+  "title": "Commerce1",
+  "url": "anothing1",
+  "content": [
+    "Eng.111"
+  ],
+  "createdBy": "rashi gupta",
+  "createdOn": "a",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 25, 2024, 04:45 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dbd9a05ebad1673d96a61"
+  },
+  "title": "Science",
+  "url": "url",
+  "content": [
+    "Eng."
+  ],
+  "createdBy": "rashi gupta",
+  "createdOn": "a",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 25, 2024, 04:45 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dc81c8e8e7c808d874878"
+  },
+  "title": "Arts",
+  "url": "this is testing url",
+  "content": [
+    "this is testing description"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 20, 2024, 04:59 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 20, 2024, 05:11 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dcb3f8e8e7c808d874880"
+  },
+  "title": "Science",
+  "url": "this is Science",
+  "content": [
+    "This is Scence"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 20, 2024, 05:12 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Nov 20, 2024, 05:12 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f19c9180603543c668c75"
+  },
+  "title": "edd",
+  "url": "rdd",
+  "content": [
+    "rdd"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 21, 2024, 05:00 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 21, 2024, 05:00 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67406741b0d953625acb7b76"
+  },
+  "title": "ee",
+  "url": "ee",
+  "content": [
+    "eee"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 22, 2024, 04:43 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Nov 22, 2024, 04:43 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f681fdec083bcac0363d"
+  },
+  "title": "vfdfdfdfd",
+  "url": "f",
+  "content": [
+    "fff"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Feb 07, 2025, 05:33 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 07, 2025, 05:33 PM",
+  "active": false,
+  "__v": 0
+}]

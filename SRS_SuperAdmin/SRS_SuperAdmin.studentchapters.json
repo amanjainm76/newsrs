@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b5837"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Motion in a Straight Line",
+  "description": "Kinematics, velocity, acceleration and equations of motion",
+  "icon": "🏃",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "difficulty": "Easy",
+  "questions": 20,
+  "topicsCount": 4,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b5838"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Laws of Motion",
+  "description": "Newton's laws, friction, circular motion",
+  "icon": "⚖️",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "difficulty": "Medium",
+  "questions": 25,
+  "topicsCount": 5,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b5839"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Work, Energy and Power",
+  "description": "Conservation of energy, work-energy theorem",
+  "icon": "⚡",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "difficulty": "Medium",
+  "questions": 22,
+  "topicsCount": 4,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b583a"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Atomic Structure",
+  "description": "Atoms, electrons, protons, neutrons and atomic models",
+  "icon": "⚛️",
+  "subjectId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "difficulty": "Easy",
+  "questions": 18,
+  "topicsCount": 3,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b583b"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Chemical Bonding",
+  "description": "Ionic, covalent and metallic bonds",
+  "icon": "🔗",
+  "subjectId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "difficulty": "Medium",
+  "questions": 24,
+  "topicsCount": 5,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b583c"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "States of Matter",
+  "description": "Solid, liquid, gas and plasma states",
+  "icon": "💧",
+  "subjectId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "difficulty": "Easy",
+  "questions": 20,
+  "topicsCount": 4,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Algebra",
+  "description": "Linear equations, quadratic equations and polynomials",
+  "icon": "🔢",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "difficulty": "Easy",
+  "questions": 30,
+  "topicsCount": 6,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b583e"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Trigonometry",
+  "description": "Trigonometric ratios, identities and equations",
+  "icon": "📐",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "difficulty": "Medium",
+  "questions": 28,
+  "topicsCount": 5,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4987748e606c0c1b583f"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Calculus",
+  "description": "Differentiation, integration and applications",
+  "icon": "∫",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "difficulty": "Hard",
+  "questions": 35,
+  "topicsCount": 7,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:56:55.334Z"
+  }
+}]

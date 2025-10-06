@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "6744528b9676e4df5c495755"
+  },
+  "title": "Advanced Physics Topics",
+  "url": "advanced-physics-topics",
+  "content": [
+    "In-depth topics covering advanced physics concepts, including mechanics"
+  ],
+  "units": [
+    {
+      "unitTitle": "Trigonometry",
+      "subTopics": [
+        {
+          "subTitle": "Trigonometry For IIT",
+          "_id": {
+            "$oid": "6744528b9676e4df5c495757"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6744528b9676e4df5c495756"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 04:03 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 26, 2024, 06:49 PM",
+  "active": true,
+  "__v": 5,
+  "SubTopics": [
+    {
+      "$oid": "6744ad32da63a083a879b395"
+    },
+    {
+      "$oid": "6744ad72cff65e18f4328cca"
+    },
+    {
+      "$oid": "6744addde95b0d857bab6212"
+    },
+    {
+      "$oid": "6745ca6c76777fe77610a8af"
+    },
+    {
+      "$oid": "6745ca7b76777fe77610a8b5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a5f718fdec083bcac0365b"
+  },
+  "title": "hg",
+  "url": "f",
+  "content": [
+    "f"
+  ],
+  "units": [
+    {
+      "unitTitle": "Calculus",
+      "subTopics": [
+        {
+          "subTitle": "Calculus For IIT",
+          "_id": {
+            "$oid": "67a5f718fdec083bcac0365d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67a5f718fdec083bcac0365c"
+      }
+    }
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Feb 07, 2025, 05:35 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Feb 07, 2025, 05:35 PM",
+  "active": true,
+  "SubTopics": [
+    {
+      "$oid": "67a5f729fdec083bcac03665"
+    }
+  ],
+  "__v": 1
+}]

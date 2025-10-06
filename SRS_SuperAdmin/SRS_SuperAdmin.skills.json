@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6740608406128a04a072a095"
+  },
+  "title": "this is new siklls demo",
+  "url": "skills demo",
+  "content": [
+    "skills"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 22, 2024, 04:14 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Nov 22, 2024, 04:14 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67406774b0d953625acb7b7a"
+  },
+  "title": "1",
+  "url": "1",
+  "content": [
+    "1"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Nov 22, 2024, 04:43 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Nov 22, 2024, 04:43 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f8bcfdec083bcac0386b"
+  },
+  "title": "zsd",
+  "url": "dfd",
+  "content": [
+    "dfd"
+  ],
+  "createdBy": "super admin",
+  "createdOn": "Feb 07, 2025, 05:42 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Feb 07, 2025, 05:42 PM",
+  "active": true,
+  "__v": 0
+}]

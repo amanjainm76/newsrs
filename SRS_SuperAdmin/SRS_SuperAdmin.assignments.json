@@ -1,0 +1,597 @@
+[{
+  "_id": {
+    "$oid": "68ddff619ff257729ea2f2ad"
+  },
+  "name": "Newton's Laws of Motion",
+  "description": "Solve numerical problems on Newton's three laws of motion and their applications in real-world scenarios. Include detailed explanations and mathematical derivations.",
+  "subject": "Physics",
+  "subjectId": 1,
+  "lastDate": {
+    "$date": "2025-11-15T23:59:59.000Z"
+  },
+  "status": "pending",
+  "priority": "high",
+  "instructor": "Dr. Sharma",
+  "marks": 50,
+  "difficulty": "Intermediate",
+  "estimatedTime": "3-4 hours",
+  "topic": "Classical Mechanics",
+  "instructions": "",
+  "requirements": [],
+  "allowedFileTypes": [],
+  "maxFileSize": 10485760,
+  "category": "Theory",
+  "tags": [],
+  "assignedTo": [
+    {
+      "studentId": {
+        "$oid": "68dba48435379612e79c31a2"
+      },
+      "submissionStatus": "not-started",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T04:38:46.738Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de01d6742a2b09712f442a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de01d6742a2b09712f4429"
+      }
+    },
+    {
+      "studentId": {
+        "$oid": "68db62ad057b5056669cd569"
+      },
+      "submissionStatus": "submitted",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T04:40:47.081Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de024f742a2b09712f443d"
+          }
+        },
+        {
+          "action": "submitted",
+          "timestamp": {
+            "$date": "2025-10-02T04:42:05.175Z"
+          },
+          "notes": "Assignment \"Newton's Laws of Motion\" submitted via web interface",
+          "_id": {
+            "$oid": "68de029d742a2b09712f4484"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de024f742a2b09712f443c"
+      },
+      "submissionDate": {
+        "$date": "2025-10-02T04:42:05.175Z"
+      },
+      "submissionNotes": "Assignment \"Newton's Laws of Motion\" submitted via web interface"
+    }
+  ],
+  "statistics": {
+    "totalAssigned": 2,
+    "totalSubmitted": 1,
+    "totalGraded": 0,
+    "averageGrade": 0,
+    "submissionRate": 50
+  },
+  "isActive": true,
+  "createdBy": "System",
+  "settings": {
+    "allowLateSubmission": false,
+    "lateSubmissionPenalty": 0,
+    "maxSubmissionAttempts": 1,
+    "showGradeToStudent": true,
+    "autoGrade": false
+  },
+  "version": 1,
+  "assignedDate": {
+    "$date": "2025-10-02T04:28:17.711Z"
+  },
+  "resourceFiles": [],
+  "versionHistory": [],
+  "__v": 3,
+  "createdAt": {
+    "$date": "2025-10-02T04:28:17.756Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T04:42:05.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ddff619ff257729ea2f2ae"
+  },
+  "name": "Electromagnetic Waves",
+  "description": "Derive Maxwell's equations and explain the propagation of electromagnetic waves through different media. Include graphical representations.",
+  "subject": "Physics",
+  "subjectId": 1,
+  "lastDate": {
+    "$date": "2025-11-20T23:59:59.000Z"
+  },
+  "status": "pending",
+  "priority": "high",
+  "instructor": "Dr. Sharma",
+  "marks": 75,
+  "difficulty": "Advanced",
+  "estimatedTime": "4-5 hours",
+  "topic": "Electromagnetism",
+  "instructions": "",
+  "requirements": [],
+  "allowedFileTypes": [],
+  "maxFileSize": 10485760,
+  "category": "Theory",
+  "tags": [],
+  "assignedTo": [
+    {
+      "studentId": {
+        "$oid": "68dba48435379612e79c31a2"
+      },
+      "submissionStatus": "not-started",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T05:05:47.506Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de082bf308bccca4f6b6cb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de082bf308bccca4f6b6ca"
+      }
+    },
+    {
+      "studentId": {
+        "$oid": "68db62ad057b5056669cd569"
+      },
+      "submissionStatus": "submitted",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T05:06:44.201Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de0864f308bccca4f6b6e8"
+          }
+        },
+        {
+          "action": "submitted",
+          "timestamp": {
+            "$date": "2025-10-02T05:18:19.263Z"
+          },
+          "notes": "Assignment \"Electromagnetic Waves\" submitted from details view",
+          "_id": {
+            "$oid": "68de0b1bf308bccca4f6b9b1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de0864f308bccca4f6b6e7"
+      },
+      "submissionDate": {
+        "$date": "2025-10-02T05:18:19.255Z"
+      },
+      "submissionFile": "uploads\\assignments\\assignment-1759382299097-142862208.pdf",
+      "submissionFileDetails": {
+        "filename": "assignment-1759382299097-142862208.pdf",
+        "originalName": "Subject-Chapter1-Topic 1-Real-Numbers-and-Number-Systems.pdf",
+        "mimetype": "application/pdf",
+        "size": 23050
+      },
+      "submissionNotes": "Assignment \"Electromagnetic Waves\" submitted from details view"
+    }
+  ],
+  "statistics": {
+    "totalAssigned": 2,
+    "totalSubmitted": 1,
+    "totalGraded": 0,
+    "averageGrade": 0,
+    "submissionRate": 50
+  },
+  "isActive": true,
+  "createdBy": "System",
+  "settings": {
+    "allowLateSubmission": false,
+    "lateSubmissionPenalty": 0,
+    "maxSubmissionAttempts": 1,
+    "showGradeToStudent": true,
+    "autoGrade": false
+  },
+  "version": 1,
+  "assignedDate": {
+    "$date": "2025-10-02T04:28:17.715Z"
+  },
+  "resourceFiles": [],
+  "versionHistory": [],
+  "__v": 3,
+  "createdAt": {
+    "$date": "2025-10-02T04:28:17.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T05:18:19.286Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ddff619ff257729ea2f2af"
+  },
+  "name": "Organic Chemistry Reactions",
+  "description": "Draw reaction mechanisms for aldol condensation, Grignard reactions, and electrophilic aromatic substitution. Show complete pathways.",
+  "subject": "Chemistry",
+  "subjectId": 2,
+  "lastDate": {
+    "$date": "2025-11-18T23:59:59.000Z"
+  },
+  "status": "pending",
+  "priority": "medium",
+  "instructor": "Prof. Kumar",
+  "marks": 60,
+  "difficulty": "Advanced",
+  "estimatedTime": "4-6 hours",
+  "topic": "Organic Reactions",
+  "instructions": "",
+  "requirements": [],
+  "allowedFileTypes": [],
+  "maxFileSize": 10485760,
+  "category": "Theory",
+  "tags": [],
+  "assignedTo": [
+    {
+      "studentId": {
+        "$oid": "68db62ad057b5056669cd569"
+      },
+      "submissionStatus": "submitted",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T05:12:22.991Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de09b6f308bccca4f6b85b"
+          }
+        },
+        {
+          "action": "submitted",
+          "timestamp": {
+            "$date": "2025-10-02T05:23:03.066Z"
+          },
+          "notes": "Assignment \"Organic Chemistry Reactions\" submitted via web interface",
+          "_id": {
+            "$oid": "68de0c37f308bccca4f6bb00"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de09b6f308bccca4f6b85a"
+      },
+      "submissionDate": {
+        "$date": "2025-10-02T05:23:03.064Z"
+      },
+      "submissionNotes": "Assignment \"Organic Chemistry Reactions\" submitted via web interface"
+    }
+  ],
+  "statistics": {
+    "totalAssigned": 1,
+    "totalSubmitted": 1,
+    "totalGraded": 0,
+    "averageGrade": 0,
+    "submissionRate": 100
+  },
+  "isActive": true,
+  "createdBy": "System",
+  "settings": {
+    "allowLateSubmission": false,
+    "lateSubmissionPenalty": 0,
+    "maxSubmissionAttempts": 1,
+    "showGradeToStudent": true,
+    "autoGrade": false
+  },
+  "version": 1,
+  "assignedDate": {
+    "$date": "2025-10-02T04:28:17.723Z"
+  },
+  "resourceFiles": [],
+  "versionHistory": [],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2025-10-02T04:28:17.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T05:23:03.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ddff619ff257729ea2f2b0"
+  },
+  "name": "Chemical Equilibrium",
+  "description": "Calculate equilibrium constants, predict reaction direction using Le Chatelier's principle. Include practical examples.",
+  "subject": "Chemistry",
+  "subjectId": 2,
+  "lastDate": {
+    "$date": "2025-11-25T23:59:59.000Z"
+  },
+  "status": "pending",
+  "priority": "low",
+  "instructor": "Prof. Kumar",
+  "marks": 45,
+  "difficulty": "Beginner",
+  "estimatedTime": "2-3 hours",
+  "topic": "Chemical Equilibrium",
+  "instructions": "",
+  "requirements": [],
+  "allowedFileTypes": [],
+  "maxFileSize": 10485760,
+  "category": "Theory",
+  "tags": [],
+  "assignedTo": [
+    {
+      "studentId": {
+        "$oid": "68db62ad057b5056669cd569"
+      },
+      "submissionStatus": "not-started",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T05:11:41.967Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de098df308bccca4f6b7ea"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de098df308bccca4f6b7e9"
+      }
+    }
+  ],
+  "statistics": {
+    "totalAssigned": 1,
+    "totalSubmitted": 0,
+    "totalGraded": 0,
+    "averageGrade": 0,
+    "submissionRate": 0
+  },
+  "isActive": true,
+  "createdBy": "System",
+  "settings": {
+    "allowLateSubmission": false,
+    "lateSubmissionPenalty": 0,
+    "maxSubmissionAttempts": 1,
+    "showGradeToStudent": true,
+    "autoGrade": false
+  },
+  "version": 1,
+  "assignedDate": {
+    "$date": "2025-10-02T04:28:17.725Z"
+  },
+  "resourceFiles": [],
+  "versionHistory": [],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2025-10-02T04:28:17.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T05:11:41.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ddff619ff257729ea2f2b1"
+  },
+  "name": "Calculus Integration",
+  "description": "Solve integration problems using substitution method, integration by parts, and partial fractions. Show all steps clearly.",
+  "subject": "Mathematics",
+  "subjectId": 3,
+  "lastDate": {
+    "$date": "2025-11-22T23:59:59.000Z"
+  },
+  "status": "pending",
+  "priority": "medium",
+  "instructor": "Dr. Singh",
+  "marks": 55,
+  "difficulty": "Intermediate",
+  "estimatedTime": "3-4 hours",
+  "topic": "Integral Calculus",
+  "instructions": "",
+  "requirements": [],
+  "allowedFileTypes": [],
+  "maxFileSize": 10485760,
+  "category": "Theory",
+  "tags": [],
+  "assignedTo": [
+    {
+      "studentId": {
+        "$oid": "68db62ad057b5056669cd569"
+      },
+      "submissionStatus": "submitted",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T05:10:41.536Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de0951f308bccca4f6b7cb"
+          }
+        },
+        {
+          "action": "submitted",
+          "timestamp": {
+            "$date": "2025-10-02T08:59:22.243Z"
+          },
+          "notes": "Assignment \"Calculus Integration\" submitted via web interface",
+          "_id": {
+            "$oid": "68de3eead19e6a658a84972e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de0951f308bccca4f6b7ca"
+      },
+      "submissionDate": {
+        "$date": "2025-10-02T08:59:22.243Z"
+      },
+      "submissionNotes": "Assignment \"Calculus Integration\" submitted via web interface"
+    }
+  ],
+  "statistics": {
+    "totalAssigned": 1,
+    "totalSubmitted": 1,
+    "totalGraded": 0,
+    "averageGrade": 0,
+    "submissionRate": 100
+  },
+  "isActive": true,
+  "createdBy": "System",
+  "settings": {
+    "allowLateSubmission": false,
+    "lateSubmissionPenalty": 0,
+    "maxSubmissionAttempts": 1,
+    "showGradeToStudent": true,
+    "autoGrade": false
+  },
+  "version": 1,
+  "assignedDate": {
+    "$date": "2025-10-02T04:28:17.726Z"
+  },
+  "resourceFiles": [],
+  "versionHistory": [],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2025-10-02T04:28:17.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:59:22.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ddff619ff257729ea2f2b2"
+  },
+  "name": "Matrix Operations",
+  "description": "Perform matrix multiplication, find determinants, and solve systems of linear equations using matrices. Include real-world applications.",
+  "subject": "Mathematics",
+  "subjectId": 3,
+  "lastDate": {
+    "$date": "2025-11-28T23:59:59.000Z"
+  },
+  "status": "pending",
+  "priority": "medium",
+  "instructor": "Dr. Singh",
+  "marks": 65,
+  "difficulty": "Advanced",
+  "estimatedTime": "4-5 hours",
+  "topic": "Linear Algebra",
+  "instructions": "",
+  "requirements": [],
+  "allowedFileTypes": [],
+  "maxFileSize": 10485760,
+  "category": "Theory",
+  "tags": [],
+  "assignedTo": [
+    {
+      "studentId": {
+        "$oid": "68db62ad057b5056669cd569"
+      },
+      "submissionStatus": "submitted",
+      "lateSubmission": false,
+      "submissionHistory": [
+        {
+          "action": "assigned",
+          "timestamp": {
+            "$date": "2025-10-02T05:09:22.030Z"
+          },
+          "notes": "Assignment assigned to student",
+          "performedBy": "System",
+          "_id": {
+            "$oid": "68de0902f308bccca4f6b796"
+          }
+        },
+        {
+          "action": "submitted",
+          "timestamp": {
+            "$date": "2025-10-02T08:59:12.211Z"
+          },
+          "notes": "Assignment \"Matrix Operations\" submitted via web interface",
+          "_id": {
+            "$oid": "68de3ee0d19e6a658a849728"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68de0902f308bccca4f6b795"
+      },
+      "submissionDate": {
+        "$date": "2025-10-02T08:59:12.207Z"
+      },
+      "submissionNotes": "Assignment \"Matrix Operations\" submitted via web interface"
+    }
+  ],
+  "statistics": {
+    "totalAssigned": 1,
+    "totalSubmitted": 1,
+    "totalGraded": 0,
+    "averageGrade": 0,
+    "submissionRate": 100
+  },
+  "isActive": true,
+  "createdBy": "System",
+  "settings": {
+    "allowLateSubmission": false,
+    "lateSubmissionPenalty": 0,
+    "maxSubmissionAttempts": 1,
+    "showGradeToStudent": true,
+    "autoGrade": false
+  },
+  "version": 1,
+  "assignedDate": {
+    "$date": "2025-10-02T04:28:17.726Z"
+  },
+  "resourceFiles": [],
+  "versionHistory": [],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2025-10-02T04:28:17.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:59:12.238Z"
+  }
+}]

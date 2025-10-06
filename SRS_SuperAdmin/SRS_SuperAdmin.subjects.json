@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "673eebfc210986dfe9f426f0"
+  },
+  "title": "hello",
+  "url": "demo1 11ghghgh",
+  "content": [
+    "demo111"
+  ],
+  "stream": [
+    "Commerce"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 21, 2024, 01:44 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "2025-02-07T12:04:40.078Z",
+  "active": true,
+  "__v": 13,
+  "innerSubjects": [
+    {
+      "$oid": "6741c45c0033335a3f73bd44"
+    },
+    {
+      "$oid": "6741d8ad054579af349d8f45"
+    },
+    {
+      "$oid": "6741dc18b6745c192ff5f660"
+    },
+    {
+      "$oid": "67440317d7890cc8b31a755f"
+    },
+    {
+      "$oid": "67440b120fb38994d0707b58"
+    },
+    {
+      "$oid": "67442ae439d04e025a05e5dd"
+    },
+    {
+      "$oid": "674474a1a7297d9507695f22"
+    },
+    {
+      "$oid": "67447564579aea88bdd20523"
+    },
+    {
+      "$oid": "674475fb676f11b84173fd88"
+    },
+    {
+      "$oid": "67447d3188b56cb6d5b49f1d"
+    },
+    {
+      "$oid": "67447f0188b56cb6d5b49f83"
+    },
+    {
+      "$oid": "6763e6ca972871a2ce3abf7f"
+    },
+    {
+      "$oid": "67a5f6edfdec083bcac03649"
+    }
+  ]
+}]

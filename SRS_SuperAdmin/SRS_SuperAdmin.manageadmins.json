@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "67b43ceb02526b93f3b82143"
+  },
+  "name": "Rashi",
+  "designation": "skdj",
+  "email": "sjfdsd223@gmail.com",
+  "phone": "38943923",
+  "address": "Some Address",
+  "username": "3993msdfmdsf 9837923",
+  "password": "$2a$10$ij4SklKJ.YtSsZB15I63NOOQUM4rg.6eq2Cf0RBoniyR7A1f/dPcq",
+  "photo": "/uploads/1739870431189.jpg",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-02-18T07:55:23.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:20:31.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43db259c5bdbc8abd576f"
+  },
+  "name": "Ram shiva",
+  "designation": "jkwf kfd kf df kef k",
+  "email": "ram@gmail.com",
+  "phone": "9343943934",
+  "address": "kdfj jdf d",
+  "username": "jkdfkd kd",
+  "password": "$2a$10$VxM7KnVhh/xvHGywndsY3ewhF7BvZBd.umUDlly8RSi5arCDLRhLu",
+  "photo": "/uploads/1739869483891.jpg",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-02-18T07:58:42.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:04:44.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4471259c5bdbc8abd5783"
+  },
+  "name": "kvh",
+  "designation": "jwksd k fd kd f d",
+  "email": "kk@gmail.com",
+  "phone": "3894375439",
+  "address": "sdj jdfd mmedfsd ",
+  "username": "jdfj ddfd dfkjd ",
+  "password": "$2a$10$kr4mzRkWNUyqFp5m76yLA.QmtiN7Tguk0R/3YnqdHCG.ECTbAQLCO",
+  "photo": "/uploads/1739869536644.jpg",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-02-18T08:38:42.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:05:36.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b554cef0ec6d5c99cb53be"
+  },
+  "name": "sdnms ",
+  "designation": "ksdfksd ",
+  "email": "dkfkd @gmail.com",
+  "phone": "3987439479",
+  "address": "dfjkdf ",
+  "username": "hjelkfdf ",
+  "password": "$2a$10$KIQhsnbix2TJ8z5JuQ8bJeaElbp.g/T/iqpYw.NBPiA7bWsgQjSLC",
+  "photo": "uploads\\photos\\1739936973651.jpg",
+  "active": false,
+  "createdAt": {
+    "$date": "2025-02-19T03:49:34.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T03:49:34.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b556b2f0ec6d5c99cb53c7"
+  },
+  "name": "jhdj ",
+  "designation": "jdfs ",
+  "email": "dhjs @gmail.com",
+  "phone": "938934893",
+  "address": "ijfsd jse ",
+  "username": "iekfh kdk",
+  "password": "$2a$10$gOVRGtimFWzwpJIEUKOqVOQLsEhLPE9bkFqycSsFHXJLhRQxqwNs.",
+  "photo": null,
+  "active": false,
+  "createdAt": {
+    "$date": "2025-02-19T03:57:38.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T03:57:38.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b55810f0ec6d5c99cb53cd"
+  },
+  "name": "jdnjdf ",
+  "designation": "jsdf ",
+  "email": "ijsdfk@gmail.com",
+  "phone": "93892834832",
+  "address": "jdf jsd f sdkf sk",
+  "username": "sdjf s smdfsdmjks d",
+  "password": "$2a$10$NZBwUJfofPQEd/AetOkJfu4972MonIMygHw4liUAyHnc2oM.69bY2",
+  "photo": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2025-02-19T04:03:28.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T05:09:50.641Z"
+  },
+  "__v": 0
+}]

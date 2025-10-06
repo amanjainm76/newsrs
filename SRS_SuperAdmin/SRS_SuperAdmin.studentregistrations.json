@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "studentName": "abc1",
+  "studentEmail": "abc1@gmail.com",
+  "studentPhone": "9357892972",
+  "password": "$2a$12$D.YV6cRzDN0K23DzH6hRIeUJSDxXKWHjuIZKVOU92IRscylWkF9H.",
+  "studentprofileImage": "/uploads/profile-images/student-1759211621030-8526400.jpg",
+  "course": "MCA",
+  "qualification": "12",
+  "fatherName": "Mahaj Pratap",
+  "motherName": "Vimla Devi",
+  "state": "UP",
+  "city": "Agra",
+  "pincode": "282210",
+  "address": "Raj pur Chungii agra",
+  "status": "active",
+  "isAccountLocked": false,
+  "profileCreated": false,
+  "createdBy": "registration",
+  "updatedOn": "Sep 30, 2025, 11:23 AM",
+  "registrationDate": {
+    "$date": "2025-09-30T04:55:09.889Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-30T04:55:09.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T09:10:37.088Z"
+  },
+  "registrationNumber": "STU110291403",
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-10-03T09:10:37.037Z"
+  },
+  "lastLoginFormatted": "Oct 03, 2025, 02:40 PM",
+  "updatedBy": "student"
+},
+{
+  "_id": {
+    "$oid": "68dba48435379612e79c31a2"
+  },
+  "studentName": "Rashi Gupta",
+  "studentEmail": "rashi@gmail.com",
+  "studentPhone": "8127712089",
+  "password": "$2a$12$eE667Ohwu5Gnux2AmB6kf.h8S1g17kS1dRovP8vEW911GhELpKWA.",
+  "studentprofileImage": "/assets/backend-img/user.png",
+  "course": "Computer Science",
+  "qualification": "12",
+  "fatherName": "VG",
+  "motherName": "pp",
+  "state": "UP",
+  "city": "agra",
+  "pincode": "989821",
+  "address": "Madhu Nagar , Agra",
+  "status": "active",
+  "isAccountLocked": false,
+  "profileCreated": false,
+  "createdBy": "registration",
+  "updatedOn": "Sep 30, 2025, 05:01 PM",
+  "registrationDate": {
+    "$date": "2025-09-30T09:36:04.692Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-30T09:36:04.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T05:27:15.366Z"
+  },
+  "registrationNumber": "STU965161330",
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-10-03T05:27:15.213Z"
+  },
+  "lastLoginFormatted": "Oct 03, 2025, 10:57 AM",
+  "updatedBy": "student"
+},
+{
+  "_id": {
+    "$oid": "68df58a9ab0977f4d947e528"
+  },
+  "studentName": "priyansh",
+  "studentEmail": "priyansh@gmail.com",
+  "studentPhone": "9087328112",
+  "password": "$2a$12$6kIO6THHbO50VrGuIJWqDulDu11/8107glcuGjBEmFffs9Zh74qxS",
+  "studentprofileImage": "/assets/backend-img/user.png",
+  "course": "CS",
+  "qualification": "12",
+  "fatherName": "OP",
+  "motherName": "UI",
+  "state": "Uttar Pradesh",
+  "city": "Agra",
+  "pincode": "282001",
+  "address": "37A/69B/1 madhu nagar agra",
+  "status": "active",
+  "isAccountLocked": false,
+  "profileCreated": false,
+  "createdBy": "registration",
+  "updatedOn": "Oct 03, 2025, 10:31 AM",
+  "registrationDate": {
+    "$date": "2025-10-03T05:01:29.361Z"
+  },
+  "createdAt": {
+    "$date": "2025-10-03T05:01:29.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T05:01:55.268Z"
+  },
+  "registrationNumber": "STU689771866",
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-10-03T05:01:55.267Z"
+  },
+  "lastLoginFormatted": "Oct 03, 2025, 10:31 AM"
+}]

@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "67652645c0e74ee14ed4319f"
+  },
+  "userId": 9,
+  "userName": "admin@gmail.com",
+  "mobile": 9389394923,
+  "email": "shd@gmail.com",
+  "password": "mdsmf",
+  "role": [
+    "Editor",
+    "User"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Dec 20, 2024, 01:39 PM",
+  "updatedOn": "Dec 20, 2024, 01:39 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676529acc0e74ee14ed431a7"
+  },
+  "userId": 10,
+  "userName": "hello",
+  "mobile": 343335,
+  "email": "fdd@gmail.com",
+  "password": "admin1#@",
+  "role": [
+    "User",
+    "Editor"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Dec 20, 2024, 01:54 PM",
+  "updatedOn": "Dec 20, 2024, 02:35 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67652b24c0e74ee14ed431ad"
+  },
+  "userId": 11,
+  "userName": "rajkj",
+  "mobile": 9027549727,
+  "email": "admin@gmail.com",
+  "password": "kjfkdf",
+  "role": [
+    "Viewer",
+    "Editor"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Dec 20, 2024, 02:00 PM",
+  "updatedOn": "Dec 20, 2024, 02:35 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67653077818e5b6af9251768"
+  },
+  "userId": 12,
+  "userName": "George Costanza",
+  "mobile": 7890123456,
+  "email": "georg11e12.costanza@example.com",
+  "password": "$2a$10$UhREeytKVyB.t180aXaAl.qjB8X628bLHGqBSGB9jJwgvqx0sStrO",
+  "role": [
+    "user"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "2023-10-07T12:00:00Z",
+  "updatedOn": "2023-10-06T12:00:00Z",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676534dbdca91a1bd2942887"
+  },
+  "userId": 13,
+  "userName": "jdkds",
+  "mobile": 22323231122,
+  "email": "abc@gmail.com",
+  "password": "$2a$10$v8y6qu8YQvtkX.TjNGoP5uMx74cLiMuCQGxuGkYVNdNM4up3Ldyn2",
+  "role": [
+    "Role_Admin",
+    "Role_Editor"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Dec 20, 2024, 02:41 PM",
+  "updatedOn": "Dec 20, 2024, 02:41 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67653d56b8cdb7225312336c"
+  },
+  "userId": 14,
+  "userName": "admin@gmail.com",
+  "mobile": 44434545,
+  "email": "djfkd@gmail.com",
+  "password": "$2a$10$RZpWOSon2CrxljrVTzbXs.WKbFJ5W1Iv8dtYWNdiNAlTeJoRgLobq",
+  "role": [
+    "Role_Admin"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Dec 20, 2024, 03:18 PM",
+  "updatedOn": "Dec 20, 2024, 03:18 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6765414e9db5aa63b396ec19"
+  },
+  "userId": 15,
+  "userName": "admin",
+  "mobile": 98793387832,
+  "email": "admin1@gmail.com",
+  "password": "$2a$10$fqQukhWN4i0mULKBx8rfte7uaIDIuHS5r5b6PCbSi2lYU5wcvf2l2",
+  "role": [
+    "Role_Editor"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Dec 20, 2024, 03:35 PM",
+  "updatedOn": "Dec 20, 2024, 03:35 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b317d643bce84428073cee"
+  },
+  "userId": 16,
+  "userName": "admi1n@gmail.com",
+  "mobile": 546555654,
+  "email": "ghftg@gmail.com",
+  "password": "$2a$10$GW.Wf/FN0WIt0gCBVBrDG.BdpBGPpMPp1zXiET5nOlAuHeOdjaD6W",
+  "role": [
+    "Role_Admin"
+  ],
+  "passwordExpired": "No",
+  "emailVerified": "No",
+  "mobileNumberVerified": "No",
+  "provider": "Local",
+  "createdOn": "Feb 17, 2025, 04:34 PM",
+  "updatedOn": "Feb 17, 2025, 04:34 PM",
+  "active": true,
+  "__v": 0
+}]

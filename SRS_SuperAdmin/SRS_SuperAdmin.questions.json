@@ -1,0 +1,2945 @@
+[{
+  "_id": {
+    "$oid": "6759926d364bcfc345627e6e"
+  },
+  "SRSUniqueCode": 614587,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "this is single digit integer"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Digit Integer",
+      "options": [
+        "ddfds",
+        "dsfs",
+        "dfdfs",
+        "dfdfs"
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": 24342,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [],
+        "isActiveC": false,
+        "enterQuestionC": [],
+        "correctAnswersC": [],
+        "optionsC": [],
+        "urlC": null,
+        "hintsSolutionC": [],
+        "streamC": [],
+        "subTopicC": [],
+        "skillsC": [],
+        "tagC": [],
+        "levelC": []
+      },
+      "_id": {
+        "$oid": "675bfa3e6191c95bece130c4"
+      }
+    }
+  ],
+  "url": "ddffd",
+  "hitsSolution": [
+    "fefdfds"
+  ],
+  "stream": [
+    "Foundation"
+  ],
+  "subTopic": [
+    "Class 8 - Chemical Reactions"
+  ],
+  "skills": [
+    "Memory Based"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 13, 2024, 02:41 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 13, 2024, 02:41 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8108901e0c4a8a5bcdd4"
+  },
+  "SRSUniqueCode": 111789,
+  "subjectType": [
+    "Biology"
+  ],
+  "enterQuestion": [
+    "this is four digit integer"
+  ],
+  "questions": [
+    {
+      "questionType": "Four Digit Integer",
+      "options": [
+        "const response = await axios.get(url); // Fetch questions from backendconsole.log(\"Fetched Data:\", response.data);",
+        "const response = await axios.get(url); // Fetch questions from backendconsole.log(\"Fetched Data:\", response.data);",
+        "const response = await axios.get(url); // Fetch questions from backendconsole.log(\"Fetched Data:\", response.data);",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 12113,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          ""
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [],
+        "subTopicC": [],
+        "skillsC": [],
+        "tagC": [],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "67a587e7ae7ce767f1bfe849"
+      }
+    }
+  ],
+  "url": "sss",
+  "hitsSolution": [
+    "dsssc"
+  ],
+  "stream": [
+    "Engineering, Medical"
+  ],
+  "subTopic": [
+    "Genetics"
+  ],
+  "skills": [
+    "Memory Based"
+  ],
+  "tags": [
+    "Previous JEE Advanced"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Feb 07, 2025, 09:41 AM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 07, 2025, 09:41 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8294901e0c4a8a5bce61"
+  },
+  "SRSUniqueCode": 266549,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "rgfddd"
+  ],
+  "questions": [
+    {
+      "questionType": "Multiple Correct",
+      "options": [
+        "dfdgf",
+        "fddfd",
+        "fdfgdgd",
+        "dfgfgdf"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675a8294901e0c4a8a5bce62"
+      }
+    }
+  ],
+  "url": "dfdd",
+  "hitsSolution": [
+    "fdgdg"
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Class 8 - Structure of the Atom"
+  ],
+  "skills": [
+    "Calculation Based"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 11:58 AM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 11:58 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a82c5901e0c4a8a5bce71"
+  },
+  "SRSUniqueCode": 593035,
+  "subjectType": [
+    "Mathematics"
+  ],
+  "enterQuestion": [
+    "fdfdfdgf"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "options": [
+        "dfdgf",
+        "fddfd",
+        "fdfgdgd",
+        "fgfdg"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675a82c5901e0c4a8a5bce72"
+      }
+    }
+  ],
+  "url": "fdgfdgf",
+  "hitsSolution": [
+    "fgfdgfd"
+  ],
+  "stream": [
+    "Commerce"
+  ],
+  "subTopic": [
+    "Sets, Relations, and Functions"
+  ],
+  "skills": [
+    "Calculation Based"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 11:59 AM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 11:59 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8311901e0c4a8a5bce77"
+  },
+  "SRSUniqueCode": 875946,
+  "subjectType": [
+    "Legal Studies"
+  ],
+  "enterQuestion": [
+    "fdfdaaa"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Digit Integer",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": 134434,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            "Comprehension SCQ"
+          ]
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "675a8311901e0c4a8a5bce78"
+      }
+    }
+  ],
+  "url": "afdg",
+  "hitsSolution": [
+    "edfdg"
+  ],
+  "stream": [
+    "Engineering"
+  ],
+  "subTopic": [
+    "Sources of Law"
+  ],
+  "skills": [
+    "Formula Based"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:00 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:00 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a832b901e0c4a8a5bce7a"
+  },
+  "SRSUniqueCode": 394355,
+  "subjectType": [
+    "Biology"
+  ],
+  "enterQuestion": [
+    "fdfdg"
+  ],
+  "questions": [
+    {
+      "questionType": "Four Digit Integer",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            "Comprehension SCQ"
+          ]
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "675a832b901e0c4a8a5bce7b"
+      }
+    }
+  ],
+  "url": "dfdgfd",
+  "hitsSolution": [
+    "fdgfg"
+  ],
+  "stream": [
+    "Engineering"
+  ],
+  "subTopic": [
+    "Human Reproduction"
+  ],
+  "skills": [
+    "Critical Thinking"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:01 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:01 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a834f901e0c4a8a5bce87"
+  },
+  "SRSUniqueCode": 237909,
+  "subjectType": [
+    "Physics"
+  ],
+  "enterQuestion": [
+    "this is sdemooo"
+  ],
+  "questions": [
+    {
+      "questionType": "Numeric Value",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          ""
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "67a5f294fdec083bcac035c6"
+      }
+    }
+  ],
+  "url": "ddgfdg",
+  "hitsSolution": [
+    "gfgdfvd"
+  ],
+  "stream": [
+    "Commerce, Medical"
+  ],
+  "subTopic": [
+    "Waves and Optics"
+  ],
+  "skills": [
+    "Calculation Based, Visualisation, Formula Based"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Feb 07, 2025, 05:16 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 07, 2025, 05:16 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a836e901e0c4a8a5bce94"
+  },
+  "SRSUniqueCode": 225680,
+  "subjectType": [
+    "General Knowledge"
+  ],
+  "enterQuestion": [
+    "fdfdgf"
+  ],
+  "questions": [
+    {
+      "questionType": "Matrix 4*5",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {
+        "A_Q": true,
+        "C_S": true,
+        "B_S": true,
+        "B_P": true,
+        "D_P": true,
+        "D_T": true
+      },
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            "Comprehension SCQ"
+          ]
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "675a836e901e0c4a8a5bce95"
+      }
+    }
+  ],
+  "url": "fddgfd",
+  "hitsSolution": [
+    "fdfdg"
+  ],
+  "stream": [
+    "Medical, Foundation"
+  ],
+  "subTopic": [
+    "Politics"
+  ],
+  "skills": [
+    "Calculation Based, Manipulation or Tricky"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:02 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:02 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a838c901e0c4a8a5bce97"
+  },
+  "SRSUniqueCode": 408849,
+  "subjectType": [
+    "Business Studies"
+  ],
+  "enterQuestion": [
+    "Differentiate tan−1(1+x2√−1x) with respect to tan–1x, when x ≠ 0."
+  ],
+  "questions": [
+    {
+      "questionType": "Matrix 4*6",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {
+        "A_P": true,
+        "C_P": true,
+        "B_U": true,
+        "C_U": true,
+        "D_R": true,
+        "B_R": true
+      },
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [],
+        "isActiveC": false,
+        "enterQuestionC": [],
+        "correctAnswersC": [],
+        "optionsC": [],
+        "urlC": null,
+        "hintsSolutionC": [],
+        "streamC": [],
+        "subTopicC": [],
+        "skillsC": [],
+        "tagC": [],
+        "levelC": []
+      },
+      "_id": {
+        "$oid": "675a971c8d88a8ddb6ce40b2"
+      }
+    }
+  ],
+  "url": "fdgfdg",
+  "hitsSolution": [
+    "fdfdsg"
+  ],
+  "stream": [
+    "Foundation, Engineering"
+  ],
+  "subTopic": [
+    "Entrepreneurship Development"
+  ],
+  "skills": [
+    "Analytical, Critical Thinking"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 01:26 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 01:26 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a83ab901e0c4a8a5bce9a"
+  },
+  "SRSUniqueCode": 434247,
+  "subjectType": [
+    "Social Science Foundation"
+  ],
+  "enterQuestion": [
+    "ffdgsf"
+  ],
+  "questions": [
+    {
+      "questionType": "Matrix 3*4",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {
+        "A_S": true,
+        "B_Q": true,
+        "C_S": true
+      },
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            "Comprehension SCQ"
+          ]
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "675a83ab901e0c4a8a5bce9b"
+      }
+    }
+  ],
+  "url": "fdgfdgfd",
+  "hitsSolution": [
+    "ffdgf"
+  ],
+  "stream": [
+    "Foundation, Medical, Engineering"
+  ],
+  "subTopic": [
+    "Indian Freedom Struggle"
+  ],
+  "skills": [
+    "Manipulation or Tricky, Critical Thinking"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:03 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:03 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8401901e0c4a8a5bce9d"
+  },
+  "SRSUniqueCode": 345437,
+  "subjectType": [
+    "General Knowledge"
+  ],
+  "enterQuestion": [
+    "dfdv"
+  ],
+  "questions": [
+    {
+      "questionType": "Assertion Reasoning",
+      "options": [
+        "dsfd",
+        "dsfds",
+        "dfds",
+        "ddsf"
+      ],
+      "correctAnswers": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [],
+        "isActiveC": false,
+        "enterQuestionC": [],
+        "correctAnswersC": [],
+        "optionsC": [],
+        "urlC": null,
+        "hintsSolutionC": [],
+        "streamC": [],
+        "subTopicC": [],
+        "skillsC": [],
+        "tagC": [],
+        "levelC": []
+      },
+      "_id": {
+        "$oid": "675fdaa50288baca9713c479"
+      }
+    }
+  ],
+  "url": "dsdsf",
+  "hitsSolution": [
+    "dsfdsfd"
+  ],
+  "stream": [
+    "Commerce, Medical, Foundation, Engineering"
+  ],
+  "subTopic": [
+    "Indian Economy"
+  ],
+  "skills": [
+    "Calculation Based, Memory Based, Critical Thinking, Manipulation or Tricky"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 16, 2024, 01:15 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 16, 2024, 01:15 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8429901e0c4a8a5bcea0"
+  },
+  "SRSUniqueCode": 977817,
+  "subjectType": [
+    "Social Science Foundation"
+  ],
+  "enterQuestion": [
+    "ddsf"
+  ],
+  "questions": [
+    {
+      "questionType": "Matrix Single Correct",
+      "options": [
+        "dsfd",
+        "dsfds",
+        "dfds",
+        ""
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            "Comprehension SCQ"
+          ]
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "675a8429901e0c4a8a5bcea1"
+      }
+    }
+  ],
+  "url": "dfdsfdsf",
+  "hitsSolution": [
+    "dsfdsf"
+  ],
+  "stream": [
+    "Engineering, Commerce, Foundation, Medical"
+  ],
+  "subTopic": [
+    "World History"
+  ],
+  "skills": [
+    "Calculation Based, Visualisation, Analytical, Formula Based, Memory Based, Critical Thinking, Manipulation or Tricky"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:05 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:05 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8442901e0c4a8a5bcea3"
+  },
+  "SRSUniqueCode": 669547,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "ddfdd"
+  ],
+  "questions": [
+    {
+      "questionType": "True False",
+      "options": [
+        "dsfd",
+        "dsfds",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": true,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            "Comprehension SCQ"
+          ]
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfgfd"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>fddg</p>",
+          "<p>dfgdfg</p>",
+          "<p>fdgfdg</p>",
+          "<p>fdgvfag</p>"
+        ],
+        "urlC": "fdfdgdg",
+        "hintsSolutionC": [
+          "gdff"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Matrices and Determinants"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "675a8442901e0c4a8a5bcea4"
+      }
+    }
+  ],
+  "url": "dsfds",
+  "hitsSolution": [
+    ""
+  ],
+  "stream": [
+    "Commerce"
+  ],
+  "subTopic": [
+    "Class 8 - Metals and Non-metals"
+  ],
+  "skills": [
+    "Analytical"
+  ],
+  "tags": [
+    "Previous JEE Advanced"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:05 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:05 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a8458901e0c4a8a5bcea6"
+  },
+  "SRSUniqueCode": 185110,
+  "subjectType": [
+    "Mathematics"
+  ],
+  "enterQuestion": [
+    "this is subjective"
+  ],
+  "questions": [
+    {
+      "questionType": "Subjective",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 544334,
+      "numericAnswerStartRange": 24335,
+      "numericAnswerEndRange": 444334,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "dfdsfs",
+      "comprehensionText": {
+        "subQuestionType": [],
+        "isActiveC": false,
+        "enterQuestionC": [],
+        "correctAnswersC": [],
+        "optionsC": [],
+        "urlC": null,
+        "hintsSolutionC": [],
+        "streamC": [],
+        "subTopicC": [],
+        "skillsC": [],
+        "tagC": [],
+        "levelC": []
+      },
+      "_id": {
+        "$oid": "675a886428c7254f8dffce22"
+      }
+    }
+  ],
+  "url": "dsdsf",
+  "hitsSolution": [
+    "dfdsf"
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Vectors and 3D Geometry"
+  ],
+  "skills": [
+    "Analytical"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:23 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:23 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675a903ab7d89f8f25bf9168"
+  },
+  "SRSUniqueCode": 342411,
+  "subjectType": [
+    "Legal Studies"
+  ],
+  "enterQuestion": [
+    "ygffg"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Digit Integer",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675a903ab7d89f8f25bf9169"
+      }
+    }
+  ],
+  "url": "",
+  "hitsSolution": [
+    "gfhgf"
+  ],
+  "stream": [
+    "Medical, Commerce"
+  ],
+  "subTopic": [
+    "Criminal Law"
+  ],
+  "skills": [
+    "Critical Thinking"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 12:56 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 12:56 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa3bc683f2c8240191d43"
+  },
+  "SRSUniqueCode": 709707,
+  "subjectType": [
+    "Economics"
+  ],
+  "enterQuestion": [
+    "gfgbfg"
+  ],
+  "questions": [
+    {
+      "questionType": "Multiple Correct",
+      "options": [
+        "fdfg",
+        "fdgf",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675bfa2a6191c95bece1308c"
+      }
+    }
+  ],
+  "url": "ffgfdgd",
+  "hitsSolution": [
+    ""
+  ],
+  "stream": [
+    "Engineering"
+  ],
+  "subTopic": [
+    ""
+  ],
+  "skills": [
+    "Visualisation"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 13, 2024, 02:41 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 13, 2024, 02:41 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa47f683f2c8240191d76"
+  },
+  "SRSUniqueCode": 667692,
+  "subjectType": [
+    "Accounts"
+  ],
+  "enterQuestion": [
+    "tgffd"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "options": [
+        "dfsd",
+        "df",
+        "dsfdsf",
+        ""
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675aa47f683f2c8240191d77"
+      }
+    }
+  ],
+  "url": "dsdsf",
+  "hitsSolution": [
+    "dsff"
+  ],
+  "stream": [
+    "Foundation"
+  ],
+  "subTopic": [
+    "Trial Balance and Rectification of Errors"
+  ],
+  "skills": [
+    "Memory Based"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 02:23 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 02:23 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aadf1683f2c8240191ee7"
+  },
+  "SRSUniqueCode": 377519,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "cdsds"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Digit Integer",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": 23,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [],
+        "isActiveC": false,
+        "enterQuestionC": [],
+        "correctAnswersC": [],
+        "optionsC": [],
+        "urlC": null,
+        "hintsSolutionC": [],
+        "streamC": [],
+        "subTopicC": [],
+        "skillsC": [],
+        "tagC": [],
+        "levelC": []
+      },
+      "_id": {
+        "$oid": "675ab2ec941e2e644d667c57"
+      }
+    }
+  ],
+  "url": "dsds",
+  "hitsSolution": [
+    "ljsdkfjsdk"
+  ],
+  "stream": [
+    "Commerce, Medical, Foundation, Engineering"
+  ],
+  "subTopic": [
+    "Class 8 - Chemical Reactions"
+  ],
+  "skills": [
+    "Calculation Based"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 03:24 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 03:24 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aaea4683f2c8240191eea"
+  },
+  "SRSUniqueCode": 682362,
+  "subjectType": [
+    "Accounts"
+  ],
+  "enterQuestion": [
+    "sds"
+  ],
+  "questions": [
+    {
+      "questionType": "Four Digit Integer",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": 17671,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675aaea4683f2c8240191eeb"
+      }
+    }
+  ],
+  "url": "",
+  "hitsSolution": [
+    "ssadsads"
+  ],
+  "stream": [
+    "Medical, Foundation"
+  ],
+  "subTopic": [
+    "Introduction to Accounting, Accounting Cycle"
+  ],
+  "skills": [
+    "Memory Based, Calculation Based"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 03:06 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 03:06 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ab1b2941e2e644d667bf8"
+  },
+  "SRSUniqueCode": 430017,
+  "subjectType": [
+    "Mathematics"
+  ],
+  "enterQuestion": [
+    "ddfsdfdsd"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "options": [
+        "ddf",
+        "",
+        "dfdd",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675ab1b2941e2e644d667bf9"
+      }
+    }
+  ],
+  "url": "ddfd",
+  "hitsSolution": [
+    "ddfsdf"
+  ],
+  "stream": [
+    "Commerce"
+  ],
+  "subTopic": [
+    "Complex Numbers and Quadratic Equations, Limit, Continuity, and Differentiability"
+  ],
+  "skills": [
+    "Analytical"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 12, 2024, 03:19 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 12, 2024, 03:19 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675bcc18305e80d1e1ab129a"
+  },
+  "SRSUniqueCode": 562274,
+  "subjectType": [
+    "Physics"
+  ],
+  "enterQuestion": [
+    "Show that if f : A → B and g : B → C are 1 – 1, then gof : A → C is also 1 – 1"
+  ],
+  "questions": [
+    {
+      "questionType": "Multiple Correct",
+      "options": [
+        "show-that-if-f-a-b-and-g-b-c-are-1-1-then-g-o-f-a-c-is-also-1-1 ",
+        "show-that-if-f-a-b-and-g-b-c-are-1-1-then-g-o-f-a-c-is-also-1-1 ",
+        "show-that-if-f-a-b-and-g-b-c-are-1-1-then-g-o-f-a-c-is-also-1-1 ",
+        "show-that-if-f-a-b-and-g-b-c-are-1-1-then-g-o-f-a-c-is-also-1-1 "
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          [
+            ""
+          ]
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "675bcc18305e80d1e1ab129b"
+      }
+    }
+  ],
+  "url": "show-that-if-f-a-b-and-g-b-c-are-1-1-then-g-o-f-a-c-is-also-1-1 ",
+  "hitsSolution": [
+    "show-that-if-f-a-b-and-g-b-c-are-1-1-then-g-o-f-a-c-is-also-1-1 "
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Waves and Optics"
+  ],
+  "skills": [
+    "Visualisation"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 13, 2024, 11:24 AM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 13, 2024, 11:24 AM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ff51c0288baca9713caef"
+  },
+  "SRSUniqueCode": 951035,
+  "subjectType": [
+    "Accounts"
+  ],
+  "enterQuestion": [
+    "sssd"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension SCQ"
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "dfdsfdsdds"
+        ],
+        "correctAnswersC": [
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>ddsf</p>",
+          "<p>ddfdf</p>",
+          "<p>ddf</p>",
+          "<p>ddfs</p>"
+        ],
+        "urlC": "fdsfdsf",
+        "hintsSolutionC": [
+          "fsdd"
+        ],
+        "streamC": [
+          "Medical"
+        ],
+        "subTopicC": [
+          "Financial Statements of Sole Proprietorship"
+        ],
+        "skillsC": [
+          "Formula Based",
+          "Visualisation"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Medium"
+        ]
+      },
+      "_id": {
+        "$oid": "675ffc430288baca9713ce00"
+      }
+    }
+  ],
+  "url": "ssad",
+  "hitsSolution": [
+    "sdasad"
+  ],
+  "stream": [
+    "Foundation"
+  ],
+  "subTopic": [
+    "Basic Accounting Terms"
+  ],
+  "skills": [
+    "Analytical, Formula Based"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 16, 2024, 03:39 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 16, 2024, 03:39 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ff73b0288baca9713cb98"
+  },
+  "SRSUniqueCode": 831283,
+  "subjectType": [
+    "Physics"
+  ],
+  "enterQuestion": [
+    "dfdd"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension SCQ"
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "sknkdsfkjdssdd"
+        ],
+        "correctAnswersC": [
+          1,
+          0,
+          2,
+          3
+        ],
+        "optionsC": [
+          "<p>sdds</p>",
+          "<p>dds</p>",
+          "<p>sss</p>",
+          "<p>dds</p>"
+        ],
+        "urlC": "this is kjsk nknf sdknsdk",
+        "hintsSolutionC": [
+          "vfdfdsknfkdnsdsdiejisiht"
+        ],
+        "streamC": [
+          "Medical",
+          "Foundation"
+        ],
+        "subTopicC": [
+          "Mechanics"
+        ],
+        "skillsC": [
+          "Analytical",
+          "Memory Based",
+          "Critical Thinking"
+        ],
+        "tagC": [
+          "Previous JEE Advanced"
+        ],
+        "levelC": [
+          "Hard"
+        ]
+      },
+      "_id": {
+        "$oid": "675ff89d0288baca9713cc4c"
+      }
+    }
+  ],
+  "url": "ddssd",
+  "hitsSolution": [
+    "dsdfd"
+  ],
+  "stream": [
+    "Foundation"
+  ],
+  "subTopic": [
+    "Thermodynamics"
+  ],
+  "skills": [
+    "Memory Based"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 16, 2024, 03:23 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 16, 2024, 03:23 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ffba90288baca9713cd6a"
+  },
+  "SRSUniqueCode": 845024,
+  "subjectType": [
+    "Mathematics"
+  ],
+  "enterQuestion": [
+    "dfdfd"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension SCQ"
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [
+          0,
+          3
+        ],
+        "optionsC": [
+          "<p>d</p>",
+          "<p>fdfd</p>",
+          "<p>dd</p>",
+          "<p>dfd</p>"
+        ],
+        "urlC": "dfddf",
+        "hintsSolutionC": [
+          "sfdddfd"
+        ],
+        "streamC": [
+          "Foundation",
+          "Engineering"
+        ],
+        "subTopicC": [
+          "Differentiation and Its Applications"
+        ],
+        "skillsC": [
+          "Analytical",
+          "Memory Based"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Hard"
+        ]
+      },
+      "_id": {
+        "$oid": "675ffc200288baca9713cdac"
+      }
+    }
+  ],
+  "url": "dfd",
+  "hitsSolution": [
+    "ddfd"
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Sequences and Series"
+  ],
+  "skills": [
+    "Analytical"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 16, 2024, 03:37 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 16, 2024, 03:37 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676001310288baca9713ce85"
+  },
+  "SRSUniqueCode": 198534,
+  "subjectType": [
+    "Physics"
+  ],
+  "enterQuestion": [
+    "dfdfd"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension SCQ"
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [
+          3,
+          2
+        ],
+        "optionsC": [
+          "<p>vv</p>",
+          "<p>dfd</p>",
+          "",
+          ""
+        ],
+        "urlC": "v",
+        "hintsSolutionC": [
+          "sdfdfd"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Waves and Optics"
+        ],
+        "skillsC": [
+          "Memory Based"
+        ],
+        "tagC": [
+          "Previous JEE Main"
+        ],
+        "levelC": [
+          "Medium"
+        ]
+      },
+      "_id": {
+        "$oid": "676001480288baca9713ce8d"
+      }
+    }
+  ],
+  "url": "dfdf",
+  "hitsSolution": [
+    "ddfd"
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Thermodynamics"
+  ],
+  "skills": [
+    "Visualisation"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Tough"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 16, 2024, 04:00 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 16, 2024, 04:00 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6764fa3c2e3c9d8762096fbe"
+  },
+  "SRSUniqueCode": 590186,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "ghgbfvv"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension SCQ"
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "<p>fgfg</p>",
+          "<p>fgf</p>",
+          "<p>gfgf</p>",
+          "<p>gfgf</p>"
+        ],
+        "urlC": "f",
+        "hintsSolutionC": [
+          "ggffg"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Class 9 - Chemical Bonding"
+        ],
+        "skillsC": [
+          "Analytical"
+        ],
+        "tagC": [
+          "Visualisation"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "6764fa3c2e3c9d8762096fbf"
+      }
+    }
+  ],
+  "url": "ffdgf",
+  "hitsSolution": [
+    "gfgfgf"
+  ],
+  "stream": [
+    "Commerce"
+  ],
+  "subTopic": [
+    "Class 8 - Atoms and Molecules"
+  ],
+  "skills": [
+    "Visualisation"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 20, 2024, 10:31 AM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 20, 2024, 10:31 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6764febd2e3c9d87620970b4"
+  },
+  "SRSUniqueCode": 741094,
+  "subjectType": [
+    "Mathematics"
+  ],
+  "enterQuestion": [
+    "fdfgfg"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension MCQ"
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          "m,dn,sdnmds"
+        ],
+        "correctAnswersC": [
+          0
+        ],
+        "optionsC": [
+          "<p>cccv</p>",
+          "<p>vcv</p>",
+          "<p>ddf</p>",
+          "<p>dfd</p>"
+        ],
+        "urlC": "dxcx",
+        "hintsSolutionC": [
+          "fd"
+        ],
+        "streamC": [
+          "Foundation"
+        ],
+        "subTopicC": [
+          "Sets, Relations, and Functions"
+        ],
+        "skillsC": [
+          "Formula Based"
+        ],
+        "tagC": [
+          "Previous JEE Main"
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "6764fee32e3c9d87620970b7"
+      }
+    }
+  ],
+  "url": "fgfdgf",
+  "hitsSolution": [
+    "fgfg"
+  ],
+  "stream": [
+    "Foundation"
+  ],
+  "subTopic": [
+    "Permutations and Combinations"
+  ],
+  "skills": [
+    "Memory Based"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Dec 20, 2024, 10:51 AM",
+  "updatedBy": "admin",
+  "updatedOn": "Dec 20, 2024, 10:51 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4a1765b932dd24561013b"
+  },
+  "SRSUniqueCode": 544707,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "dfsfsfd"
+  ],
+  "questions": [
+    {
+      "questionType": "Multiple Correct",
+      "options": [
+        "sdfsd",
+        "dfds",
+        "dfdfd",
+        "dfdfd"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          ""
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "67a4a1765b932dd24561013c"
+      }
+    }
+  ],
+  "url": "dfdfsd",
+  "hitsSolution": [
+    "dfdfd"
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Class 8 - Atoms and Molecules"
+  ],
+  "skills": [
+    "Analytical"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Feb 06, 2025, 05:18 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 06, 2025, 05:18 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5d8c9fdec083bcac0314f"
+  },
+  "SRSUniqueCode": 493504,
+  "subjectType": [
+    "Chemistry"
+  ],
+  "enterQuestion": [
+    "erere"
+  ],
+  "questions": [
+    {
+      "questionType": "Comprehension",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          "Comprehension SCQ"
+        ],
+        "isActiveC": true,
+        "enterQuestionC": [
+          "erereere"
+        ],
+        "correctAnswersC": [
+          0,
+          1,
+          2
+        ],
+        "optionsC": [
+          "<p>re</p>",
+          "<p>rer</p>",
+          "<p>r</p>",
+          "<p>r</p>"
+        ],
+        "urlC": "eere",
+        "hintsSolutionC": [
+          "etr"
+        ],
+        "streamC": [
+          "Commerce"
+        ],
+        "subTopicC": [
+          "Class 9 - Chemical Bonding"
+        ],
+        "skillsC": [
+          "Memory Based"
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          "Easy"
+        ]
+      },
+      "_id": {
+        "$oid": "67a5d8c9fdec083bcac03150"
+      }
+    }
+  ],
+  "url": "rerere",
+  "hitsSolution": [
+    "rere"
+  ],
+  "stream": [
+    "Medical"
+  ],
+  "subTopic": [
+    "Class 8 - Atoms and Molecules"
+  ],
+  "skills": [
+    "Visualisation"
+  ],
+  "tags": [
+    "Visualisation"
+  ],
+  "level": [
+    "Easy"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Feb 07, 2025, 03:26 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 07, 2025, 03:26 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5ed46fdec083bcac03478"
+  },
+  "SRSUniqueCode": 593099,
+  "subjectType": [
+    "Physics"
+  ],
+  "enterQuestion": [
+    "kk"
+  ],
+  "questions": [
+    {
+      "questionType": "Single Correct",
+      "options": [
+        "mm",
+        "mmm",
+        "",
+        ""
+      ],
+      "correctAnswers": [],
+      "assertionAnswer": null,
+      "reasoningAnswer": null,
+      "matrixAnswer": {},
+      "numericAnswer": null,
+      "singleInteger": null,
+      "fourDigit": null,
+      "numericAnswerStartRange": null,
+      "numericAnswerEndRange": null,
+      "trueFalseAnswer": null,
+      "questionContent": "",
+      "subjectiveAnswerFormat": "",
+      "comprehensionText": {
+        "subQuestionType": [
+          ""
+        ],
+        "isActiveC": false,
+        "enterQuestionC": [
+          ""
+        ],
+        "correctAnswersC": [],
+        "optionsC": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "urlC": "",
+        "hintsSolutionC": [
+          ""
+        ],
+        "streamC": [
+          ""
+        ],
+        "subTopicC": [
+          ""
+        ],
+        "skillsC": [
+          ""
+        ],
+        "tagC": [
+          ""
+        ],
+        "levelC": [
+          ""
+        ]
+      },
+      "_id": {
+        "$oid": "67a5ed46fdec083bcac03479"
+      }
+    }
+  ],
+  "url": "mmmmkm,",
+  "hitsSolution": [
+    "mmm"
+  ],
+  "stream": [
+    "Foundation"
+  ],
+  "subTopic": [
+    "Thermodynamics"
+  ],
+  "skills": [
+    "Formula Based"
+  ],
+  "tags": [
+    "Previous JEE Main"
+  ],
+  "level": [
+    "Moderate"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Feb 07, 2025, 04:53 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 07, 2025, 04:53 PM",
+  "active": false,
+  "__v": 0
+}]

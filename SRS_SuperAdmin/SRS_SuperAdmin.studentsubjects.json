@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Physics",
+  "description": "Mechanics, Thermodynamics, Waves and Optics",
+  "icon": "⚛️",
+  "image": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?w=400",
+  "alt": "Physics",
+  "color": "#3498db",
+  "totalChapters": 10,
+  "totalQuestions": 200,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:50:02.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:50:02.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df47ea748e606c0c1b57b4"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Chemistry",
+  "description": "Organic, Inorganic and Physical Chemistry",
+  "icon": "🧪",
+  "image": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=400",
+  "alt": "Chemistry",
+  "color": "#2ecc71",
+  "totalChapters": 12,
+  "totalQuestions": 250,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:50:02.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:50:02.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Mathematics",
+  "description": "Algebra, Calculus, Geometry and Trigonometry",
+  "icon": "📐",
+  "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400",
+  "alt": "Mathematics",
+  "color": "#e74c3c",
+  "totalChapters": 15,
+  "totalQuestions": 300,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T03:50:02.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T03:50:02.581Z"
+  }
+}]

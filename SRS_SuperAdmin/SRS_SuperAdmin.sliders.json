@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67b2fa83137ad9ccd6c7c222"
+  },
+  "imageUrl": "/uploads/1739782787780.jpg",
+  "createdBy": "super admin",
+  "createdOn": "Feb 17, 2025, 02:29 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Feb 17, 2025, 02:29 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fd13d4b8c08924bd7c59"
+  },
+  "imageUrl": "/uploads/1739783443219.jpg",
+  "createdBy": "super admin",
+  "createdOn": "Feb 17, 2025, 02:40 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Feb 17, 2025, 02:40 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b317f343bce84428073cf2"
+  },
+  "imageUrl": "/uploads/1739790322943.jpg",
+  "createdBy": "super admin",
+  "createdOn": "Feb 17, 2025, 04:35 PM",
+  "updatedBy": "super admin",
+  "updatedOn": "Feb 17, 2025, 04:35 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b412b769009d5ff6d3061b"
+  },
+  "imageUrl": "/uploads/1739854519693.jpg",
+  "createdBy": "super admin",
+  "createdOn": "Feb 18, 2025, 10:25 AM",
+  "updatedBy": "super admin",
+  "updatedOn": "Feb 18, 2025, 10:25 AM",
+  "active": true,
+  "__v": 0
+}]

@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "68dfb2c9ae3728c48f679421"
+  },
+  "testId": {
+    "$oid": "68df6ac3810c691da31f0240"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "answers": {
+    "0": "1",
+    "4": "1",
+    "7": "true"
+  },
+  "obtainedMarks": 0,
+  "totalMarks": 40,
+  "percentage": 0,
+  "correctAnswers": 0,
+  "wrongAnswers": 3,
+  "unanswered": 7,
+  "timeTaken": 9,
+  "submittedAt": {
+    "$date": "2025-10-03T11:26:01.212Z"
+  },
+  "isEvaluated": false,
+  "teacherRemarks": "",
+  "createdAt": {
+    "$date": "2025-10-03T11:26:01.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T11:26:01.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dfb456ae3728c48f679473"
+  },
+  "testId": {
+    "$oid": "68df6a7f810c691da31f0233"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "answers": {
+    "0": "2"
+  },
+  "obtainedMarks": 0,
+  "totalMarks": 20,
+  "percentage": 0,
+  "correctAnswers": 0,
+  "wrongAnswers": 1,
+  "unanswered": 9,
+  "timeTaken": 2,
+  "submittedAt": {
+    "$date": "2025-10-03T11:32:37.998Z"
+  },
+  "isEvaluated": false,
+  "teacherRemarks": "",
+  "createdAt": {
+    "$date": "2025-10-03T11:32:38.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T11:32:38.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dfb4fdae3728c48f679531"
+  },
+  "testId": {
+    "$oid": "68df6bd3810c691da31f02b0"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "answers": {
+    "0": "0",
+    "1": "2",
+    "2": "true",
+    "3": "1",
+    "4": "2",
+    "5": "jkerjes rje",
+    "6": "1",
+    "7": "true",
+    "8": "1",
+    "9": "mmmsbdms"
+  },
+  "obtainedMarks": 2,
+  "totalMarks": 60,
+  "percentage": 3.33,
+  "correctAnswers": 1,
+  "wrongAnswers": 7,
+  "unanswered": 0,
+  "timeTaken": 34,
+  "submittedAt": {
+    "$date": "2025-10-03T11:35:25.268Z"
+  },
+  "isEvaluated": false,
+  "teacherRemarks": "",
+  "createdAt": {
+    "$date": "2025-10-03T11:35:25.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T11:35:25.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dfbab7ae3728c48f679572"
+  },
+  "testId": {
+    "$oid": "68df77cfee9c7f5f7d4bf167"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "answers": {
+    "0": "1",
+    "1": "1",
+    "2": "false",
+    "3": "2",
+    "4": "ekkeshk",
+    "5": "1"
+  },
+  "obtainedMarks": 3,
+  "totalMarks": 40,
+  "percentage": 7.5,
+  "correctAnswers": 2,
+  "wrongAnswers": 3,
+  "unanswered": 0,
+  "timeTaken": 17,
+  "submittedAt": {
+    "$date": "2025-10-03T11:59:51.379Z"
+  },
+  "isEvaluated": false,
+  "teacherRemarks": "",
+  "createdAt": {
+    "$date": "2025-10-03T11:59:51.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T11:59:51.406Z"
+  },
+  "__v": 0
+}]

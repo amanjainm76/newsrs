@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "67440bcd0fb38994d0707b76"
+  },
+  "title": "www",
+  "url": "ww",
+  "content": [
+    "www"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:01 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 11:01 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67440bee0fb38994d0707b80"
+  },
+  "title": "rrr",
+  "url": "rrr",
+  "content": [
+    "rrr"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:02 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 12:43 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67440bfb0fb38994d0707b84"
+  },
+  "title": "rr",
+  "url": "rr",
+  "content": [
+    "rrr"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:02 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 11:02 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67440c2d0fb38994d0707b88"
+  },
+  "title": "d",
+  "url": "d",
+  "content": [
+    "d"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:03 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 11:03 AM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67440c500fb38994d0707b9a"
+  },
+  "title": "dd",
+  "url": "ddd",
+  "content": [
+    "ddddddddddddddddd"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:04 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 11:04 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67440f870fb38994d0707c04"
+  },
+  "title": "avc",
+  "url": "avc",
+  "content": [
+    "avc"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:17 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 11:17 AM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744111e0fb38994d0707c52"
+  },
+  "title": "Test900",
+  "url": "URL2",
+  "content": [
+    "Test2"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:24 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "today",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674414698a95658213dfe9db"
+  },
+  "title": "ddddddddddddddd",
+  "url": "ddddddddddddddd",
+  "content": [
+    "ddddddddddddddd"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 11:38 AM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 11:38 AM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67442ae439d04e025a05e5dd"
+  },
+  "title": "test1",
+  "url": "test1 ",
+  "content": [
+    "twst1"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "Nov 25, 2024, 01:14 PM",
+  "updatedBy": "superadmin",
+  "updatedOn": "Nov 25, 2024, 01:14 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674472457b53e3ea34d1019e"
+  },
+  "title": "New Inner Subject Unit",
+  "url": "/inner-subject-unit-url",
+  "content": [
+    "Content of the inner subject unit"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "2024-11-25",
+  "updatedBy": "superadmin",
+  "updatedOn": "2024-11-25",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744725b7b53e3ea34d101a1"
+  },
+  "title": "New Inner Subject Unit",
+  "url": "/inner-subject-unit-url",
+  "content": [
+    "Content of the inner subject unit"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "2024-11-25",
+  "updatedBy": "superadmin",
+  "updatedOn": "2024-11-25",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674472657b53e3ea34d101a4"
+  },
+  "title": "New Inner Subject Unit",
+  "url": "/inner-subject-unit-url",
+  "content": [
+    "Content of the inner subject unit"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": "2024-11-25",
+  "updatedBy": "superadmin",
+  "updatedOn": "2024-11-25",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744741379112f01463d7eeb"
+  },
+  "title": "New Inner Subject Unit",
+  "url": "/inner-subject-unit-url",
+  "content": [
+    "Content of the inner subject unit"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67447445a7297d9507695f1f"
+  },
+  "title": "New Inner Subject Unit",
+  "url": "/inner-subject-unit-url",
+  "content": [
+    "Content of the inner subject unit"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674474a1a7297d9507695f22"
+  },
+  "title": "New Inner Subject Unit",
+  "url": "/inner-subject-unit-url",
+  "content": [
+    "Content of the inner subject unit"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67447564579aea88bdd20523"
+  },
+  "title": "demo1",
+  "url": "demo1",
+  "content": [
+    "demko1"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T13:02:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T13:02:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674475fb676f11b84173fd88"
+  },
+  "title": "ee",
+  "url": "ee",
+  "content": [
+    "ee"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T13:04:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T13:04:00.000Z"
+  },
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67447d3188b56cb6d5b49f1d"
+  },
+  "title": "aa",
+  "url": "aa",
+  "content": [
+    "aaa"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T13:35:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T13:35:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67447f0188b56cb6d5b49f83"
+  },
+  "title": "aa",
+  "url": "aa",
+  "content": [
+    "aa"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2024-11-25T13:43:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2024-11-25T13:43:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f6edfdec083bcac03649"
+  },
+  "title": "nnj",
+  "url": "mkk",
+  "content": [
+    "fgf"
+  ],
+  "createdBy": "superadmin",
+  "createdOn": {
+    "$date": "2025-02-07T12:05:00.000Z"
+  },
+  "updatedBy": "superadmin",
+  "updatedOn": {
+    "$date": "2025-02-07T12:05:00.000Z"
+  },
+  "active": true,
+  "__v": 0
+}]

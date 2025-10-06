@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "673daf47f808b3a78e4122a2"
+  },
+  "title": "Matrix 3 by 4 Correct 9 Partial 3 Negative 0",
+  "content": [
+    "<p><br></p>"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Nov 20, 2024, 03:13 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Feb 07, 2025, 05:32 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db16a97c2fd7aa422628c"
+  },
+  "title": "SHM Part Test 18 JEE Advanced",
+  "content": [
+    "<p>1-The question paper consists of Physics. In this paper consists of Two Sections.In this section given Multiple Choice Questions. Each question has four choices (A). (B), (C) and (D) out of which ONLY ONE is correct.For each question in this section,</p><p>2 you will be awarded 3 marks for correct answer ONLY ONE and zero (0) marks if not attempted. In all other cases, minus one (–1) mark will be awarded in these sections.In this section, given Integer Type Questions. The 3-answer to each question is a Four digit integer ranging from 0 to 9999.For each question, you will be awarded 4 marks if you darken the bubble corresponding to the correct answer and zero mark if no bubble is darkened. In case of Integer questions, round off answer to nearest integer. No negative marks will be awarded in this section.</p>"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Nov 20, 2024, 03:22 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 20, 2024, 03:43 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db1d897c2fd7aa422628f"
+  },
+  "title": "abc",
+  "content": [
+    "<p>dsmsmd</p>"
+  ],
+  "createdBy": "admin",
+  "createdOn": "rshi",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 20, 2024, 03:38 PM",
+  "active": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db32097c2fd7aa4226293"
+  },
+  "title": "c",
+  "content": [
+    "cc"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Nov 20, 2024, 03:30 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 20, 2024, 03:30 PM",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f36a56476ef8ea4ceae60"
+  },
+  "title": "ff",
+  "content": [
+    "ffff"
+  ],
+  "createdBy": "admin",
+  "createdOn": "Nov 21, 2024, 07:03 PM",
+  "updatedBy": "admin",
+  "updatedOn": "Nov 21, 2024, 07:03 PM",
+  "active": false,
+  "__v": 0
+}]

@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "68de26f2f8a28d527aa56ecf"
+  },
+  "name": "Newton's Laws",
+  "description": "Laws of motion",
+  "subjectId": {
+    "$oid": "68de2639f8a28d527aa56ec7"
+  },
+  "chapterId": {
+    "$oid": "68de2681f8a28d527aa56ecb"
+  },
+  "questionsCount": 3,
+  "difficulty": "Medium",
+  "estimatedTime": "15 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-02T07:17:06.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T07:17:06.562Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de60cc17f9e078b3eee7c7"
+  },
+  "name": "Linear Equations",
+  "description": "Solving equations with one variable",
+  "subjectId": {
+    "$oid": "68de5fd517f9e078b3eee73f"
+  },
+  "chapterId": {
+    "$oid": "68de2681f8a28d527aa56ecb"
+  },
+  "questionsCount": 10,
+  "difficulty": "Easy",
+  "estimatedTime": "15 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-02T11:23:56.235Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T11:23:56.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b5898"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Distance and Displacement",
+  "description": "Difference between distance and displacement",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b5838"
+  },
+  "questionsCount": 5,
+  "difficulty": "Easy",
+  "estimatedTime": "5-10 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.291Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b5899"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Velocity and Speed",
+  "description": "Uniform and non-uniform motion",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b5838"
+  },
+  "questionsCount": 6,
+  "difficulty": "Easy",
+  "estimatedTime": "8-12 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b589a"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Acceleration",
+  "description": "Rate of change of velocity",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b3"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b5838"
+  },
+  "questionsCount": 5,
+  "difficulty": "Medium",
+  "estimatedTime": "10-15 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b589b"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Structure of Atom",
+  "description": "Electrons, protons and neutrons",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b4"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583a"
+  },
+  "questionsCount": 6,
+  "difficulty": "Easy",
+  "estimatedTime": "8-12 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b589c"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Atomic Models",
+  "description": "Thomson, Rutherford and Bohr models",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b4"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583a"
+  },
+  "questionsCount": 7,
+  "difficulty": "Medium",
+  "estimatedTime": "10-15 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b589d"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Linear Equations",
+  "description": "Solving equations in one variable",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "questionsCount": 10,
+  "difficulty": "Easy",
+  "estimatedTime": "10-15 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b589e"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Quadratic Equations",
+  "description": "Solving using factorization and formula",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "questionsCount": 12,
+  "difficulty": "Medium",
+  "estimatedTime": "15-20 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df4b08748e606c0c1b589f"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "name": "Polynomials",
+  "description": "Operations on polynomials",
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "questionsCount": 8,
+  "difficulty": "Medium",
+  "estimatedTime": "12-18 minutes",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T04:03:20.292Z"
+  }
+}]
