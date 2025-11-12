@@ -1,4 +1,4 @@
-const Users = require("../models/UsersModal");
+const Users = require("../models/user-modal");
 const bcrypt = require("bcryptjs");
 const createUser = async (req, res) => {
   try {

@@ -75,10 +75,46 @@ const StudentSidebar = () => {
               <Link to="/student/study" className="nav-link">
                 <FaBookOpenReader className=" nav-icon" />
                 <p>
-                  Study Material
+                  Digital Material
                   {/* <span className="right badge badge-danger">New</span> */}
                 </p>
               </Link>
+            </li>
+
+            <li className="nav-item has-treeview">
+              <Link href="#" className="nav-link">
+                <i className="nav-icon fa fa-check-circle"></i>
+                <p>
+                  Test & Reports
+                  <i className="right fas fa-angle-left"></i>
+                </p>
+              </Link>
+              <ul className="nav nav-treeview">
+                <li className="nav-item">
+                  <Link to="/student/testsByAdmin" className="nav-link">
+                    <i className="fa fa-list nav-icon"></i>
+                    <p>Test</p>
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link to="/student/reports" className="nav-link">
+                    <i className="fa fa-bar-chart nav-icon"></i>
+                    <p>Reports</p>
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link to="/student/testsReports" className="nav-link">
+                    <i className="fa fa-bar-chart nav-icon"></i>
+                    <p>Test-Reports</p>
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link to="/student/testsReportSolutions" className="nav-link">
+                    <i className="fa fa-bar-chart nav-icon"></i>
+                    <p>Test-Reports solutions</p>
+                  </Link>
+                </li>
+              </ul>
             </li>
             <li className="nav-item has-treeview">
               <Link to="/student/practice_questions" className="nav-link">
@@ -114,7 +150,7 @@ const StudentSidebar = () => {
             <li className="nav-item has-treeview">
               <Link to="/student/tests" className="nav-link">
                 <SiSpeedtest className=" nav-icon" />
-                <p>Tests</p>
+                <p> Self Tests</p>
               </Link>
             </li>
 

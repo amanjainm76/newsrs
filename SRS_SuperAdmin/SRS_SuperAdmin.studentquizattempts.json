@@ -51,4 +51,58 @@
     "$date": "2025-10-03T05:43:37.226Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fc5de7d314f7ad98ab959f"
+  },
+  "studentId": {
+    "$oid": "68db62ad057b5056669cd569"
+  },
+  "subjectId": {
+    "$oid": "68df47ea748e606c0c1b57b5"
+  },
+  "chapterId": {
+    "$oid": "68df4987748e606c0c1b583d"
+  },
+  "topicId": {
+    "$oid": "68df4b08748e606c0c1b589d"
+  },
+  "questions": [
+    {
+      "questionId": {
+        "$oid": "68df4c79748e606c0c1b58a5"
+      },
+      "studentAnswer": 0,
+      "isCorrect": false,
+      "marks": 0,
+      "_id": {
+        "$oid": "68fc5de7d314f7ad98ab95a0"
+      }
+    },
+    {
+      "questionId": {
+        "$oid": "68df4c79748e606c0c1b58a6"
+      },
+      "studentAnswer": 3,
+      "isCorrect": false,
+      "marks": 0,
+      "_id": {
+        "$oid": "68fc5de7d314f7ad98ab95a1"
+      }
+    }
+  ],
+  "totalQuestions": 2,
+  "correctAnswers": 0,
+  "totalMarks": 0,
+  "scorePercentage": 0,
+  "timeSpent": 6,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-10-25T05:19:35.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-25T05:19:35.547Z"
+  },
+  "__v": 0
 }]

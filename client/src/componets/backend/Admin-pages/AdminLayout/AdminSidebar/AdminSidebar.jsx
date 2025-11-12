@@ -8,7 +8,6 @@ import { RiGuideLine } from "react-icons/ri";
 import { MdOutlineStream } from "react-icons/md";
 import { MdSubject } from "react-icons/md";
 import { MdOutlineTopic } from "react-icons/md";
-import { FaBook } from "react-icons/fa";
 import { CiSquareQuestion } from "react-icons/ci";
 import { RiExportFill } from "react-icons/ri";
 import { FaRegNoteSticky } from "react-icons/fa6";
@@ -24,6 +23,8 @@ import { FaPeopleGroup } from "react-icons/fa6";
 import { MdOutlineQueryStats } from "react-icons/md";
 import { BiSolidUserVoice } from "react-icons/bi";
 import { MdMenuBook } from "react-icons/md";
+import { FaBookOpenReader } from "react-icons/fa6";
+
 import "../../../Admin/AdminCSS.css";
 import "../../../Admin/AdminJS.js";
 const AdminSidebar = () => {
@@ -81,6 +82,40 @@ const AdminSidebar = () => {
                   {/* <i className="right fas fa-angle-left"></i> */}
                 </p>
               </Link>
+            </li>
+            <li className="nav-item has-treeview">
+              <Link to="/admin/study-material" className="nav-link">
+                <FaBookOpenReader className=" nav-icon" />
+
+                <p>
+                  Study Material
+                  {/* <i className="right fas fa-angle-left"></i> */}
+                </p>
+              </Link>
+            </li>
+
+            <li className="nav-item has-treeview">
+              <Link href="#" className="nav-link">
+                <i className="nav-icon fa fa-check-circle"></i>
+                <p>
+                  Test Management
+                  <i className="right fas fa-angle-left"></i>
+                </p>
+              </Link>
+              <ul className="nav nav-treeview">
+                <li className="nav-item">
+                  <Link to="/admin/ManageTests" className="nav-link">
+                    <i className="fa fa-list nav-icon"></i>
+                    <p>Manage Tests</p>
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link to="/admin/ManageQuestions" className="nav-link">
+                    <i className="fa fa-bar-chart nav-icon"></i>
+                    <p>Manage Questions</p>
+                  </Link>
+                </li>
+              </ul>
             </li>
             <li className="nav-item has-treeview">
               <Link to="#" className="nav-link">
@@ -169,13 +204,6 @@ const AdminSidebar = () => {
                 <MdOutlineTopic className=" nav-icon" />
 
                 <p>Topics</p>
-              </Link>
-            </li>
-            <li className="nav-item has-treeview">
-              <Link to="#" className="nav-link">
-                <FaBook className=" nav-icon" />
-
-                <p>Study Material</p>
               </Link>
             </li>
 

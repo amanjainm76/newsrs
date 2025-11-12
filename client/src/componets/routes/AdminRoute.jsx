@@ -15,6 +15,9 @@ import Questions from "../backend/Admin-pages/QuestionsModules/Questions";
 
 import User from "../backend/Admin-pages/UsersModule/User";
 import Student from "../backend/Admin-pages/StudentRegistration/Student";
+import AdminStudyMaterialUpload from "../backend/Admin-pages/StudyMaterial/AdminStudyMaterialUpload";
+import ManageTest from "../backend/Admin-pages/TestManagement/ManageTests";
+import ManageQuestions from "../backend/Admin-pages/TestManagement/ManageQuestions";
 const AdminRoute = [
   {
     path: "/admin",
@@ -63,6 +66,36 @@ const AdminRoute = [
       {
         path: "exams",
         element: <Exam />,
+      },
+    ],
+  },
+  {
+    path: "/admin",
+    element: <AdminMasterLayout />,
+    children: [
+      {
+        path: "study-material",
+        element: <AdminStudyMaterialUpload />,
+      },
+    ],
+  },
+  {
+    path: "/admin",
+    element: <AdminMasterLayout />,
+    children: [
+      {
+        path: "ManageTests",
+        element: <ManageTest />,
+      },
+    ],
+  },
+  {
+    path: "/admin",
+    element: <AdminMasterLayout />,
+    children: [
+      {
+        path: "ManageQuestions",
+        element: <ManageQuestions />,
       },
     ],
   },

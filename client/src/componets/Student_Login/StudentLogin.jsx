@@ -120,7 +120,7 @@ const StudentLogin = () => {
 
         // Redirect after 1.5 seconds
         setTimeout(() => {
-          navigate("/student/myProfile");
+          navigate("/student/studentDashboard");
         }, 1500);
       }
     } catch (error) {

@@ -1,5 +1,8 @@
+// controller/auth-controller.js
 const Register = require("../models/user-modal");
-const bcrypt = require("bcryptjs"); // Import bcrypt for password hashing
+const bcrypt = require("bcryptjs");
+
+const JWT_SECRET = process.env.JWT_SECRET_KEY || "SRSEDUCARES";
 
 // *------------------------
 // * Registration Logic
@@ -15,24 +18,38 @@ const register = async (req, res) => {
       userClass,
       userStream,
       userCourse,
+      isAdmin,
     } = req.body;
 
-    // Check if the user already exists by email or phone
-    const userExistByEmail = await Register.findOne({ email: email });
-    const userExistByPhone = await Register.findOne({ phone: phone });
+    // Validation
+    if (!username || !email || !phone || !password) {
+      return res.status(400).json({
+        success: false,
+        message: "All required fields must be provided",
+      });
+    }
 
+    // Check existing user
+    const userExistByEmail = await Register.findOne({ email });
     if (userExistByEmail) {
-      return res.status(400).json({ msg: "Email already exists" });
+      return res.status(400).json({
+        success: false,
+        message: "Email already registered",
+      });
     }
 
+    const userExistByPhone = await Register.findOne({ phone });
     if (userExistByPhone) {
-      return res.status(400).json({ msg: "Phone number already exists" });
+      return res.status(400).json({
+        success: false,
+        message: "Phone number already registered",
+      });
     }
 
-    // Hash the password before saving it to the database
-    const hashedPassword = await bcrypt.hash(password, 10);
+    // Hash password
+    const hashedPassword = await bcrypt.hash(password, 12);
 
-    // Create a new user
+    // Create user
     const userCreated = await Register.create({
       username,
       email,
@@ -42,59 +59,94 @@ const register = async (req, res) => {
       userClass,
       userStream,
       userCourse,
+      isAdmin: isAdmin === true ? true : false,
     });
 
-    // Return the user data excluding the password for security purposes
+    // Generate token using model method
+    const token = userCreated.generateToken();
+
+    console.log("✅ User registered:", {
+      userId: userCreated._id,
+      email: userCreated.email,
+      isAdmin: userCreated.isAdmin,
+    });
+
     res.status(201).json({
+      success: true,
       msg: "Registration Successful",
-      token: await userCreated.generateToken(),
-      userId: userCreated.id.toString(),
+      token,
+      userId: userCreated._id.toString(),
+      email: userCreated.email,
+      username: userCreated.username,
+      isAdmin: userCreated.isAdmin,
     });
   } catch (error) {
-    // Log the full error message for debugging purposes
-    console.error("Error during registration:", error);
-    res
-      .status(500)
-      .send({
-        message: "An error occurred during registration",
-        error: error.message,
-      });
+    console.error("❌ Registration error:", error);
+    res.status(500).json({
+      success: false,
+      message: "Registration failed",
+      error: error.message,
+    });
   }
 };
 
 // *------------------------
 // * Login Logic
 // *------------------------
-
 const login = async (req, res) => {
   try {
     const { email, password } = req.body;
 
-    // First, check if the user exists by email
-    const userExist = await Register.findOne({ email });
-    console.log(userExist);
-
-    if (!userExist) {
-      return res.status(400).json({ message: "Invalid Credentials" });
-    }
-
-    // Compare the password with the hashed password stored in DB
-    const isPasswordValid = await bcrypt.compare(password, userExist.password);
-
-    if (isPasswordValid) {
-      // If password is correct, generate token and send response
-      res.status(200).json({
-        msg: "Login Successful",
-        token: await userExist.generateToken(),
-        userId: userExist.id.toString(),
+    // Validation
+    if (!email || !password) {
+      return res.status(400).json({
+        success: false,
+        message: "Email and password are required",
       });
-    } else {
-      // If password is incorrect, send invalid credentials response
-      res.status(401).json({ message: "Invalid email or password" });
     }
+
+    // Find user
+    const userExist = await Register.findOne({ email }).select("+password");
+    if (!userExist) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid credentials",
+      });
+    }
+
+    // Compare password
+    const isPasswordValid = await userExist.comparePassword(password);
+    if (!isPasswordValid) {
+      return res.status(401).json({
+        success: false,
+        message: "Invalid email or password",
+      });
+    }
+
+    // Generate token using model method
+    const token = userExist.generateToken();
+
+    console.log("✅ Login successful:", {
+      userId: userExist._id,
+      email: userExist.email,
+      isAdmin: userExist.isAdmin,
+    });
+
+    res.status(200).json({
+      success: true,
+      msg: "Login Successful",
+      token,
+      userId: userExist._id.toString(),
+      email: userExist.email,
+      username: userExist.username,
+      isAdmin: userExist.isAdmin,
+    });
   } catch (error) {
-    console.error("Error during login:", error);
-    res.status(500).json({ message: "Internal server error" });
+    console.error("❌ Login error:", error);
+    res.status(500).json({
+      success: false,
+      message: "Internal server error",
+    });
   }
 };
 

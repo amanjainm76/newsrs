@@ -1,89 +1,42 @@
 [{
   "_id": {
-    "$oid": "673b4556cab2e2796477c23a"
+    "$oid": "6905b7232ffca03d4ac5054c"
   },
-  "username": "admin",
+  "username": "Admin",
   "email": "admin@gmail.com",
-  "phone": "1234567891",
-  "city": "agra",
-  "password": "$2a$10$120ARNg7IDa2RqnpFHg9CuDBIlMU3Euo7aqMsUC/EjxYJi8zNP1sG",
-  "userClass": "1",
-  "userStream": "Science",
-  "userCourse": "medical",
+  "phone": "9876543210",
+  "city": "Delhi",
+  "password": "$2a$12$Y6mlw.0huq/E1iN9qOMF2uNUGfRbuxXd4VRQLTN4TMdpIW3mw.C3W",
+  "userClass": "N/A",
+  "userStream": "Admin",
+  "userCourse": "Admin",
   "isAdmin": true,
+  "createdAt": {
+    "$date": "2025-11-01T07:30:43.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T07:30:43.873Z"
+  },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "67b5a371afad24581a6b9040"
+    "$oid": "6905c1af788879086ea6e69d"
   },
-  "username": "Ashiivi",
-  "email": "ashvi@gmail.com",
-  "city": "Agra",
-  "password": "$2a$10$cl7SZT0U8uPxiJ0nc/Y49.bL3X/AOF0NEXUzCtO2jChZ7CIPL5Lmq",
-  "classF": "8th",
-  "stream": "JEE(Main + Advanced)",
-  "course": "JEE(Main + Advanced)",
+  "username": "Student User",
+  "email": "student@gmail.com",
+  "phone": "8888888888",
+  "city": "Delhi",
+  "password": "$2a$12$iiVG0wr15pP32go66XPWDuR/U6gx7Da4NJ9uhUkgJnE2pHk88LMRi",
+  "userClass": "12th",
+  "userStream": "Science",
+  "userCourse": "neet",
   "isAdmin": false,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67b5a51f09961628892bc648"
+  "createdAt": {
+    "$date": "2025-11-01T08:15:43.501Z"
   },
-  "username": "exampleUser",
-  "email": "exampl2e@example.com",
-  "phone": "1234567895",
-  "city": "CityName",
-  "password": "$2a$10$4u2YcW8KC5PcQc0GxWsivuicfSYmaRy9UR8uvUpsSfzuIsPMrmCGi",
-  "classF": "someClass",
-  "stream": "someStream",
-  "course": "someCourse",
-  "isAdmin": false,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67b5a57f09961628892bc64c"
+  "updatedAt": {
+    "$date": "2025-11-01T08:15:43.543Z"
   },
-  "username": "exampleUser",
-  "email": "examp2l2e@example.com",
-  "phone": "1234567590",
-  "city": "CityName",
-  "password": "$2a$10$fhIR8TgJ7wwijN/FUpWabOguPZOZwIpSRBXjp3sXEiFMJHZTVQ4HW",
-  "classF": "someClass",
-  "stream": "someStream",
-  "course": "someCourse",
-  "isAdmin": false,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67b5abd109961628892bc668"
-  },
-  "username": "Rashi Gupta",
-  "email": "rashi12@gmail.com",
-  "phone": "+919027539419",
-  "city": "Agra",
-  "password": "$2a$10$LYhg3IE4SutvLVOSLcnEcOqgYUP75W8dpExQ0/.CjRxTHrVTZrfZO",
-  "classF": "8th",
-  "stream": "Foundation (Class IX & X)",
-  "course": "Foundation (Class IX & X)",
-  "isAdmin": false,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67b5ba0809961628892bc6a6"
-  },
-  "username": "Rashi",
-  "email": "kjdfjd@gmail.com",
-  "phone": "+911234567890",
-  "city": "kjedkf",
-  "password": "$2a$10$2Zk.sgakvQX47EqYdFiuueVVL6ojH.SYdlubeaGDpwqSOaBQ8/R8.",
-  "classF": "7th",
-  "stream": "JEE(Main + Advanced)",
-  "course": "Medical(NEET)",
-  "isAdmin": false,
   "__v": 0
 }]

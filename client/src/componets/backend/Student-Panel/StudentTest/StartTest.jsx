@@ -58,6 +58,7 @@ const StartTest = () => {
     return () => clearInterval(timer);
   }, [isTestStarted, timeRemaining]);
 
+  // ✅ loadTest function me ye add karo
   const loadTest = async () => {
     if (!studentId) return;
 
@@ -68,11 +69,31 @@ const StartTest = () => {
       );
 
       if (response.data.success) {
-        setTest(response.data.test);
-        setTimeRemaining(response.data.test.timeLimit * 60);
+        const testData = response.data.test;
+
+        // ✅ Check if already submitted
+        if (testData.isSubmitted || testData.status === "submitted") {
+          alert("⚠️ You have already submitted this test!");
+          navigate(`/student/tests/${id}/result`);
+          return;
+        }
+
+        setTest(testData);
+        setTimeRemaining(testData.timeLimit * 60);
       }
     } catch (error) {
       console.error("Error loading test:", error);
+
+      // ✅ Handle already submitted error
+      if (
+        error.response?.status === 400 &&
+        error.response?.data?.message?.includes("already submitted")
+      ) {
+        alert("You have already submitted this test!");
+        navigate(`/student/tests/${id}/result`);
+        return;
+      }
+
       alert("Error loading test");
       navigate("/student/tests");
     } finally {
@@ -113,33 +134,78 @@ const StartTest = () => {
   };
 
   const handleSubmitTest = async () => {
+    if (!studentId || !id) {
+      alert("Invalid student or test ID");
+      return;
+    }
+
+    if (Object.keys(answers).length === 0) {
+      alert("Please answer at least one question!");
+      return;
+    }
+
     if (!window.confirm("Are you sure you want to submit the test?")) {
       return;
     }
 
     setIsSubmitting(true);
+
     try {
+      const formattedAnswers = Object.entries(answers).map(
+        ([index, answer]) => ({
+          questionId: test.questions[index]._id,
+          answer: answer,
+          questionIndex: parseInt(index),
+        })
+      );
+
+      const submitData = {
+        answers: formattedAnswers,
+        timeTaken: test.timeLimit * 60 - timeRemaining,
+      };
+
+      console.log("Submitting test...");
+
       const response = await axios.post(
         `${API_BASE_URL}/student/${studentId}/tests/${id}/submit`,
+        submitData,
         {
-          answers: answers,
-          timeTaken: test.timeLimit * 60 - timeRemaining,
+          headers: {
+            "Content-Type": "application/json",
+          },
         }
       );
 
+      console.log("Success:", response.data);
+
       if (response.data.success) {
-        // ✅ Save result to localStorage
         localStorage.setItem(
           `test_result_${id}`,
           JSON.stringify(response.data.result)
         );
-
         alert("Test submitted successfully!");
         navigate(`/student/tests/${id}/result`);
       }
     } catch (error) {
-      console.error("Error submitting test:", error);
-      alert("Error submitting test");
+      console.error("Submission Error:", error.response?.data);
+
+      // ✅ Handle already submitted error
+      if (error.response?.status === 400) {
+        const errorMsg =
+          error.response?.data?.message ||
+          error.response?.data?.error ||
+          "Bad Request";
+
+        if (errorMsg.includes("already submitted")) {
+          alert("This test has already been submitted!");
+          navigate(`/student/tests/${id}/result`);
+          return;
+        }
+
+        alert(`${errorMsg}`);
+      } else {
+        alert("Failed to submit test. Please try again.");
+      }
     } finally {
       setIsSubmitting(false);
     }

@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "6907183a0deacc9301661fd9"
+  },
+  "materialType": "study-material",
+  "course": "neet",
+  "subject": "physics",
+  "topic": "Mechanics",
+  "title": "Mechanics",
+  "description": "This is Mechanics chapter",
+  "filePath": "/uploads/study-materials/file_1762072633942-591825377.pdf",
+  "fileName": "file.pdf",
+  "fileSize": 3303180,
+  "uploadedBy": {
+    "$oid": "6905b7232ffca03d4ac5054c"
+  },
+  "uploadedOn": {
+    "$date": "2025-11-02T08:37:14.415Z"
+  },
+  "isActive": true,
+  "viewCount": 0,
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-11-02T08:37:14.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T08:37:14.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690718690deacc9301661fed"
+  },
+  "materialType": "exercise",
+  "course": "mca",
+  "subject": "physics",
+  "topic": "Optics",
+  "title": "Physical Chemistry",
+  "description": "this demo",
+  "filePath": "/uploads/study-materials/file_1762072681528-478461331.pdf",
+  "fileName": "file.pdf",
+  "fileSize": 3303180,
+  "uploadedBy": {
+    "$oid": "6905b7232ffca03d4ac5054c"
+  },
+  "uploadedOn": {
+    "$date": "2025-11-02T08:38:01.659Z"
+  },
+  "isActive": true,
+  "viewCount": 0,
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-11-02T08:38:01.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T08:54:44.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690718980deacc9301661ff5"
+  },
+  "materialType": "race",
+  "course": "jee",
+  "subject": "chemistry",
+  "topic": "Inorganic Chemistry",
+  "title": "Inorganic chemistry",
+  "description": "this is inorganic",
+  "filePath": "/uploads/study-materials/file_1762072728411-162393185.pdf",
+  "fileName": "file.pdf",
+  "fileSize": 3303180,
+  "uploadedBy": {
+    "$oid": "6905b7232ffca03d4ac5054c"
+  },
+  "uploadedOn": {
+    "$date": "2025-11-02T08:38:48.538Z"
+  },
+  "isActive": true,
+  "viewCount": 0,
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-11-02T08:38:48.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T08:38:48.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690718bc0deacc9301661ffd"
+  },
+  "materialType": "special-booklet",
+  "course": "foundation",
+  "subject": "mathematics",
+  "topic": "Coordinate Geometry",
+  "title": "Maths",
+  "description": "sm,dfn,",
+  "filePath": "/uploads/study-materials/file_1762072764271-425537616.pdf",
+  "fileName": "file.pdf",
+  "fileSize": 3303180,
+  "uploadedBy": {
+    "$oid": "6905b7232ffca03d4ac5054c"
+  },
+  "uploadedOn": {
+    "$date": "2025-11-02T08:39:24.553Z"
+  },
+  "isActive": true,
+  "viewCount": 1,
+  "downloadCount": 2,
+  "createdAt": {
+    "$date": "2025-11-02T08:39:24.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T09:07:03.610Z"
+  },
+  "__v": 0,
+  "lastAccessedOn": {
+    "$date": "2025-11-02T09:07:03.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690718de0deacc9301662008"
+  },
+  "materialType": "class-notes",
+  "course": "foundation",
+  "subject": "science",
+  "topic": "General Science",
+  "title": "dms,sdnf d",
+  "description": "n,sd,",
+  "filePath": "/uploads/study-materials/file_1762072798729-352869764.pdf",
+  "fileName": "file.pdf",
+  "fileSize": 3303180,
+  "uploadedBy": {
+    "$oid": "6905b7232ffca03d4ac5054c"
+  },
+  "uploadedOn": {
+    "$date": "2025-11-02T08:39:58.977Z"
+  },
+  "isActive": true,
+  "viewCount": 1,
+  "downloadCount": 2,
+  "createdAt": {
+    "$date": "2025-11-02T08:39:58.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T09:15:56.723Z"
+  },
+  "__v": 0,
+  "lastAccessedOn": {
+    "$date": "2025-11-02T09:15:56.724Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69071e1279712443cdc0cb41"
+  },
+  "materialType": "race",
+  "course": "foundation",
+  "subject": "mathematics",
+  "topic": "Algebra",
+  "title": "m mmd",
+  "description": "sdmm",
+  "filePath": "/uploads/study-materials/WEBFRONT_1762074130190-505272016.pdf",
+  "fileName": "WEBFRONT.pdf",
+  "fileSize": 36831,
+  "uploadedBy": {
+    "$oid": "6905b7232ffca03d4ac5054c"
+  },
+  "uploadedOn": {
+    "$date": "2025-11-02T09:02:10.258Z"
+  },
+  "isActive": true,
+  "viewCount": 0,
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-11-02T09:02:10.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T09:02:10.345Z"
+  },
+  "__v": 0
+}]

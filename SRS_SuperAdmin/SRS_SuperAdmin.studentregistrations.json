@@ -6,8 +6,8 @@
   "studentEmail": "abc1@gmail.com",
   "studentPhone": "9357892972",
   "password": "$2a$12$D.YV6cRzDN0K23DzH6hRIeUJSDxXKWHjuIZKVOU92IRscylWkF9H.",
-  "studentprofileImage": "/uploads/profile-images/student-1759211621030-8526400.jpg",
-  "course": "MCA",
+  "studentprofileImage": "/assets/backend-img/user.png",
+  "course": "foundation",
   "qualification": "12",
   "fatherName": "Mahaj Pratap",
   "motherName": "Vimla Devi",
@@ -19,7 +19,7 @@
   "isAccountLocked": false,
   "profileCreated": false,
   "createdBy": "registration",
-  "updatedOn": "Sep 30, 2025, 11:23 AM",
+  "updatedOn": "Nov 02, 2025, 02:28 PM",
   "registrationDate": {
     "$date": "2025-09-30T04:55:09.889Z"
   },
@@ -27,14 +27,14 @@
     "$date": "2025-09-30T04:55:09.898Z"
   },
   "updatedAt": {
-    "$date": "2025-10-03T09:10:37.088Z"
+    "$date": "2025-11-03T03:01:16.428Z"
   },
   "registrationNumber": "STU110291403",
   "__v": 0,
   "lastLogin": {
-    "$date": "2025-10-03T09:10:37.037Z"
+    "$date": "2025-11-03T03:01:15.545Z"
   },
-  "lastLoginFormatted": "Oct 03, 2025, 02:40 PM",
+  "lastLoginFormatted": "Nov 03, 2025, 08:31 AM",
   "updatedBy": "student"
 },
 {
@@ -66,14 +66,14 @@
     "$date": "2025-09-30T09:36:04.712Z"
   },
   "updatedAt": {
-    "$date": "2025-10-03T05:27:15.366Z"
+    "$date": "2025-11-01T08:49:32.963Z"
   },
   "registrationNumber": "STU965161330",
   "__v": 0,
   "lastLogin": {
-    "$date": "2025-10-03T05:27:15.213Z"
+    "$date": "2025-11-01T08:49:32.962Z"
   },
-  "lastLoginFormatted": "Oct 03, 2025, 10:57 AM",
+  "lastLoginFormatted": "Nov 01, 2025, 02:19 PM",
   "updatedBy": "student"
 },
 {

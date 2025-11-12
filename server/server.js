@@ -4,6 +4,12 @@ const fs = require("fs");
 const express = require("express");
 const app = express();
 const cors = require("cors");
+
+const connectDb = require("./utils/db");
+
+app.use(cors({ origin: "http://localhost:5173" }));
+app.use(express.json());
+
 const router = require("./router/auth-router");
 const guidelineRoutes = require("./router/guideline-router");
 const streamRoutes = require("./router/streamRoutes");
@@ -27,13 +33,7 @@ const studentRegistrationRoutes = require("./router/studentRegistrationRoutes");
 const assignmentRoutes = require("./router/studentRoutes/assignmentRoutes");
 const practiceRoutes = require("./router/studentRoutes/practiceRoutes");
 const testStudentRoutes = require("./router/studentRoutes/testStudentRoutes");
-
-const connectDb = require("./utils/db");
-const errorMiddleware = require("./middleware/error-middleware");
-
-app.use(cors({ origin: "http://localhost:5173" }));
-app.use(express.json());
-app.use(errorMiddleware);
+const studentMaterialRoutes = require("./router/studentRoutes/studentMaterialRoutes");
 
 const corsOption = {
   method: "GET,POST,PUT,DELETE,PATCH,HEAD",
@@ -84,11 +84,23 @@ app.use("/api/auth/", TestSeriesRoutes);
 app.use("/api/auth/", userRoutes);
 app.use("/api/auth/studentRegistration", studentRegistrationRoutes);
 app.use("/api/student-auth", require("./router/auth/authRoutes"));
-app.use("/api", require("./router/studentRegistrationRoutes"));
 app.use("/api/course", courseRoutes);
 app.use("/api/assignments", assignmentRoutes);
 app.use("/api/practice", practiceRoutes);
 app.use("/api/tests", testStudentRoutes);
+app.use("/api/student/materials", studentMaterialRoutes);
+app.get("/api/student/materials/test", (req, res) => {
+  console.log("✅ TEST ROUTE HIT");
+  res.json({ success: true, message: "Test route works" });
+});
+
+app.use("/api/materials", require("./router/adminMaterialRoutes"));
+app.use("/api", require("./router/studentRegistrationRoutes"));
+
+console.log("All routes registered");
+const errorMiddleware = require("./middleware/error-middleware");
+
+app.use(errorMiddleware);
 
 const PORT = 5000;
 

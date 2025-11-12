@@ -32,6 +32,7 @@ export const LoginUi = () => {
   };
 
   // Handle login form submission
+  // Handle login form submission
   const handleLogin = async e => {
     e.preventDefault();
 
@@ -43,16 +44,61 @@ export const LoginUi = () => {
         },
         body: JSON.stringify(user),
       });
-      console.log("login form", response);
-      if (response.ok) {
-        console.log("Login Successfully");
-        setUser({ email: "", password: "", phobe: "" });
-        navigate("/admin");
+
+      // Parse response JSON
+      const data = await response.json();
+      console.log(" Login Response:", data);
+
+      if (response.ok && data.success) {
+        console.log(" Login Successfully");
+
+        //  Check if user is admin
+        if (data.isAdmin) {
+          console.log(" Admin detected");
+
+          //  Save admin token
+          localStorage.setItem("adminToken", data.token);
+          localStorage.setItem(
+            "adminUser",
+            JSON.stringify({
+              userId: data.userId,
+              email: data.email,
+              username: data.username,
+              isAdmin: data.isAdmin,
+            })
+          );
+
+          toast.success("Admin login successful!");
+          setUser({ email: "", password: "", phone: "" });
+          navigate("/admin"); // Redirect to admin
+        } else {
+          console.log("Student login");
+
+          //  Save student token
+          localStorage.setItem("studentToken", data.token);
+          localStorage.setItem(
+            "studentUser",
+            JSON.stringify({
+              userId: data.userId,
+              email: data.email,
+              username: data.username,
+            })
+          );
+
+          toast.success("Student login successful!");
+          setUser({ email: "", password: "", phone: "" });
+          navigate("/student/dashboard"); // Redirect to student dashboard
+        }
+
+        // Close modal
+        setShowModal(false);
       } else {
-        console.log("Invalid credential");
+        toast.error(data.message || "Invalid credentials");
+        console.log("❌ Login failed:", data.message);
       }
     } catch (error) {
-      console.log(error);
+      console.error("❌ Login error:", error);
+      toast.error("Login failed. Please try again.");
     }
   };
 

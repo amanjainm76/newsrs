@@ -166,7 +166,7 @@ const loginWithPassword = async (req, res) => {
         registrationNumber: student.registrationNumber,
         type: "student",
       },
-      process.env.JWT_SECRET || "your-secret-key",
+      process.env.JWT_SECRET_KEY || "SRSEDUCARES",
       { expiresIn: tokenExpiry }
     );
 

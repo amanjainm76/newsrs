@@ -1,4 +1,3 @@
-import Study from "../backend/Student-Panel/StudyMaterial/Study";
 import StudentMasterLayout from "../backend/Student-Panel/StudentLayout/StudentMasterLayout/StudentMasterLayout";
 import StudentDashboard from "../backend/Student-Panel/StudentDashboardModule/StudentDashboard";
 import Student from "../backend/Student-Panel/StudentProfile/Student";
@@ -18,7 +17,13 @@ import ViewTest from "../backend/Student-Panel/StudentTest/ViewTest";
 import EditTest from "../backend/Student-Panel/StudentTest/EditTest";
 import StartTest from "../backend/Student-Panel/StudentTest/StartTest";
 import TestResult from "../backend/Student-Panel/StudentTest/TestResult";
-
+import DigitalMaterial from "../backend/Student-Panel/StudyMaterial/DigitalMaterial";
+import TopicReport from "../backend/Student-Panel/StudentReports/TopicReport";
+import ReportsDashboard from "../backend/Student-Panel/StudentReports/ReportsDashboard";
+import ScoreCard from "../backend/Student-Panel/StudentReports/ScoreCard";
+import TestAdmin from "../backend/Student-Panel/TestAdmin/TestAdmin";
+import TestReports from "../backend/Student-Panel/TestReports/TestReports";
+import TestSolutionModule from "../backend/Student-Panel/StudentTestSolution/TestSolutionModule";
 const StudentRoute = [
   {
     path: "/student",
@@ -71,9 +76,34 @@ const StudentRoute = [
 
       {
         path: "study",
-        element: <Study />,
+        element: <DigitalMaterial />,
       },
 
+      {
+        path: "reports",
+        element: <ReportsDashboard />,
+      },
+      {
+        path: "reports/score-card",
+        element: <ScoreCard />,
+      },
+      {
+        path: "reports/topic-report",
+        element: <TopicReport />,
+      },
+      {
+        path: "testsByAdmin",
+        element: <TestAdmin />,
+      },
+
+      {
+        path: "testsReports",
+        element: <TestReports />,
+      },
+      {
+        path: "testsReportSolutions",
+        element: <TestSolutionModule />,
+      },
       // Assignment Routes
       {
         path: "assignments/",
